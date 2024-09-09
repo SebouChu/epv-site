@@ -5,6 +5,6 @@ width: 1017
 height: 1017
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjRlNzZiZDQyLTBlOGItNGYwNC04YzYwLTliNDVlN2NlY2Y5ZSIsInB1ciI6ImJsb2JfaWQifX0=--7afc83143ff6164a004ec24e10dc2907b0bd0a39/Photo-Laure-2019-4.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/6d2glvq19cwqyn2m6ggyh5o5re5s
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjRlNzZiZDQyLTBlOGItNGYwNC04YzYwLTliNDVlN2NlY2Y5ZSIsInB1ciI6ImJsb2JfaWQifX0=--22ddfe4471084b89eec193f5ab06fdd622bcb9bd/Photo-Laure-2019-4.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/6d2glvq19cwqyn2m6ggyh5o5re5s
 
