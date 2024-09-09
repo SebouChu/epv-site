@@ -5,6 +5,6 @@ width: 506
 height: 506
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVjOTk3NWU3LTQwOGItNGM0NS05MmUwLTU5OWI3ZmUxY2QwOCIsInB1ciI6ImJsb2JfaWQifX0=--7bc7a1a1ee294e07281275e3356e06a91bc3f948/Benoit-Beguin-Cornu.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/unqo9jbopvve4dqbqwq1wqvxxbe9
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVjOTk3NWU3LTQwOGItNGM0NS05MmUwLTU5OWI3ZmUxY2QwOCIsInB1ciI6ImJsb2JfaWQifX0=--aa71685c9c1cde7d0498326abcbb1fe3a9761b22/Benoit-Beguin-Cornu.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/unqo9jbopvve4dqbqwq1wqvxxbe9
 
