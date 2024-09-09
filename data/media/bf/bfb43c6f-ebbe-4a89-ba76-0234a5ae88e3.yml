@@ -5,6 +5,6 @@ width: 373
 height: 373
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJmYjQzYzZmLWViYmUtNGE4OS1iYTc2LTAyMzRhNWFlODhlMyIsInB1ciI6ImJsb2JfaWQifX0=--c39ad5808c79f38b91259aefa7b53b2fc0c888d8/e_douard_dumas_2-b2eeb.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/8sw560r8mdrbuqifwe43xb6ssimi
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJmYjQzYzZmLWViYmUtNGE4OS1iYTc2LTAyMzRhNWFlODhlMyIsInB1ciI6ImJsb2JfaWQifX0=--9ede7367bd9b7f3eecb26cfb2c2c9465ecc031c4/e_douard_dumas_2-b2eeb.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/8sw560r8mdrbuqifwe43xb6ssimi
 

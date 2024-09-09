@@ -5,6 +5,6 @@ width: 454
 height: 454
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjgwM2FmZTZjLWUwYjEtNDYzOS04MzkwLTUyNmE2OTM1ZDg4ZCIsInB1ciI6ImJsb2JfaWQifX0=--383f3c8747db5eb6bbf9baa35d9a013bf7744c56/Francois-Retailleau.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/egiijlkoftossn9vz5rbbpw1q7zz
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjgwM2FmZTZjLWUwYjEtNDYzOS04MzkwLTUyNmE2OTM1ZDg4ZCIsInB1ciI6ImJsb2JfaWQifX0=--ae371c69bb1ddfb4b525141c71c56805aa6d7a91/Francois-Retailleau.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/egiijlkoftossn9vz5rbbpw1q7zz
 

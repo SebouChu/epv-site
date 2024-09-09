@@ -5,6 +5,6 @@ width: 401
 height: 401
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg2MjI5OGRlLTNjMGQtNDZhYi05ZWU1LWViOGRkYzFkNjI5NyIsInB1ciI6ImJsb2JfaWQifX0=--8bc3dcd047b88359edafd4aeae0bde941b542f3d/Emmanuelle-Andrieux.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/2qm881ukflykuihcjp2i0j4qyvru
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg2MjI5OGRlLTNjMGQtNDZhYi05ZWU1LWViOGRkYzFkNjI5NyIsInB1ciI6ImJsb2JfaWQifX0=--64ea2626c915403a05c1706c67a8d16908a4d251/Emmanuelle-Andrieux.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/2qm881ukflykuihcjp2i0j4qyvru
 
