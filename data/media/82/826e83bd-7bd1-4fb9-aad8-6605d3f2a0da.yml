@@ -5,6 +5,6 @@ width: 3840
 height: 5760
 ratio: 0.6666666666666666
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjgyNmU4M2JkLTdiZDEtNGZiOS1hYWQ4LTY2MDVkM2YyYTBkYSIsInB1ciI6ImJsb2JfaWQifX0=--06e08cb765d2762156669597207dc9056e791b21/VERSAILLES-002.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/jn8155uxkfrtsgs694ory3aldapo
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjgyNmU4M2JkLTdiZDEtNGZiOS1hYWQ4LTY2MDVkM2YyYTBkYSIsInB1ciI6ImJsb2JfaWQifX0=--883f35914754a364db3fb0dd055e8860a4a5c39e/VERSAILLES-002.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/jn8155uxkfrtsgs694ory3aldapo
 

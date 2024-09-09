@@ -5,6 +5,6 @@ width: 2480
 height: 1920
 ratio: 1.2916666666666667
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQxZTlmMTUyLTViYTYtNGQ3MS04ZWQwLTMxNjgyNWI1ZGIxOCIsInB1ciI6ImJsb2JfaWQifX0=--13a2e1e680f28610bab08d946e16b403c89d0082/Pergola-Socotex-ID2storeenrouleur.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/ygv9kutw38nv9i8pljmecukhxx7i
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQxZTlmMTUyLTViYTYtNGQ3MS04ZWQwLTMxNjgyNWI1ZGIxOCIsInB1ciI6ImJsb2JfaWQifX0=--1b44fdfebb47a039a2d8fd5e1b08398a0db8b2bb/Pergola-Socotex-ID2storeenrouleur.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ygv9kutw38nv9i8pljmecukhxx7i
 

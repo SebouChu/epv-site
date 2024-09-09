@@ -5,6 +5,6 @@ width: 2395
 height: 2395
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjIxODE4NmFlLTRkODQtNDViZS04MzY5LTY1NzIxMjBjZTA1MSIsInB1ciI6ImJsb2JfaWQifX0=--2478ca33a90be438664eb123f583bc199a62c3d8/Bertrand-FOUCHER-004-100124.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/6hhiax62la6bj0ijft73m0z3jyly
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjIxODE4NmFlLTRkODQtNDViZS04MzY5LTY1NzIxMjBjZTA1MSIsInB1ciI6ImJsb2JfaWQifX0=--45d131681b70b6b27ec35834c77a03a4f34c083e/Bertrand-FOUCHER-004-100124.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/6hhiax62la6bj0ijft73m0z3jyly
 

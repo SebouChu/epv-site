@@ -5,6 +5,6 @@ width: 777
 height: 780
 ratio: 0.9961538461538462
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjA0Yjc2YzNkLThlZDktNGJmMi1iMDI4LWEzYzdhMzc5YThkMSIsInB1ciI6ImJsb2JfaWQifX0=--0f918f3f4d5ede0bb49b1a68f88765f89a7bd8e8/Capture-d-ecran-2024-04-17-071435.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/smp12krenac8kt1ethubbi510wqt
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjA0Yjc2YzNkLThlZDktNGJmMi1iMDI4LWEzYzdhMzc5YThkMSIsInB1ciI6ImJsb2JfaWQifX0=--451c0f701f3bbf6bc987a6da2e8884dd8389141c/Capture-d-ecran-2024-04-17-071435.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/smp12krenac8kt1ethubbi510wqt
 
