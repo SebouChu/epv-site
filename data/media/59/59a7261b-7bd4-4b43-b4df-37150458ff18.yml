@@ -5,6 +5,6 @@ width: 768
 height: 1024
 ratio: 0.75
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjU5YTcyNjFiLTdiZDQtNGI0My1iNGRmLTM3MTUwNDU4ZmYxOCIsInB1ciI6ImJsb2JfaWQifX0=--d0bc3afb81085d0368a877862ba7bd4a066f7ae7/WhatsApp-Image-2024-03-19-at-11-51-33-13.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/6u20d3q5b2hlsylc5uuoogef0grg
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjU5YTcyNjFiLTdiZDQtNGI0My1iNGRmLTM3MTUwNDU4ZmYxOCIsInB1ciI6ImJsb2JfaWQifX0=--482a7b1ccb29abe98b8c251eb6eb8108cc4dc0b4/WhatsApp-Image-2024-03-19-at-11-51-33-13.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/6u20d3q5b2hlsylc5uuoogef0grg
 

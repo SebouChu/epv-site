@@ -5,6 +5,6 @@ width: 800
 height: 500
 ratio: 1.6
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjM0YmMxY2FkLTljM2YtNGVhYS1iZjVlLTA3ODkzNzdiMTFjNSIsInB1ciI6ImJsb2JfaWQifX0=--e62ea43d7ff78b6bd5267238bc05541abf1f1ff2/Lelievre.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/rz436vp58mssn44xmxr73ddpmf0d
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjM0YmMxY2FkLTljM2YtNGVhYS1iZjVlLTA3ODkzNzdiMTFjNSIsInB1ciI6ImJsb2JfaWQifX0=--a969439e415d0eb8d0e6ebe321b4d3c86c3f89ca/Lelievre.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/rz436vp58mssn44xmxr73ddpmf0d
 

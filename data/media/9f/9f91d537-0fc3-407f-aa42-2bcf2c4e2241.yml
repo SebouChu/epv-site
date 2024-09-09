@@ -5,6 +5,6 @@ width: 1440
 height: 1083
 ratio: 1.3296398891966759
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlmOTFkNTM3LTBmYzMtNDA3Zi1hYTQyLTJiY2YyYzRlMjI0MSIsInB1ciI6ImJsb2JfaWQifX0=--7473610f82dab209a32dcff2b822763cf12455ca/epv_occitanie_1705952191_3286087612848390992_46447745679.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/fhjk0n726503lzbz5qsmfuaeh514
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlmOTFkNTM3LTBmYzMtNDA3Zi1hYTQyLTJiY2YyYzRlMjI0MSIsInB1ciI6ImJsb2JfaWQifX0=--8e33b179ff5dcefa91d610b251a7d64c4cd678b5/epv_occitanie_1705952191_3286087612848390992_46447745679.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/fhjk0n726503lzbz5qsmfuaeh514
 
