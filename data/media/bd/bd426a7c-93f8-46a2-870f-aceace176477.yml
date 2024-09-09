@@ -5,6 +5,6 @@ width: 1440
 height: 960
 ratio: 1.5
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJkNDI2YTdjLTkzZjgtNDZhMi04NzBmLWFjZWFjZTE3NjQ3NyIsInB1ciI6ImJsb2JfaWQifX0=--f1fa4e8173a54e838dc725a754c04204b1a6b997/arsen-isigny-ste-mere-gamme-avec-socle.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/3fcu89tfmso25ficjkfxxkm5x0ah
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJkNDI2YTdjLTkzZjgtNDZhMi04NzBmLWFjZWFjZTE3NjQ3NyIsInB1ciI6ImJsb2JfaWQifX0=--82681fa062c2db2878f6cc8237e754ddbce7a324/arsen-isigny-ste-mere-gamme-avec-socle.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/3fcu89tfmso25ficjkfxxkm5x0ah
 
