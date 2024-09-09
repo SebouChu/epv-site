@@ -5,6 +5,6 @@ width: 1280
 height: 1920
 ratio: 0.6666666666666666
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjA2YjI4MTdjLWQ3YmQtNDRlOS1iNGMwLWU0ZDJkMzFhMmYyNCIsInB1ciI6ImJsb2JfaWQifX0=--45577995433202e430440db5743a097cea6fa6b9/Grand-Est.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/1hh2q6c0wi5nmdvhyb822eq175c5
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjA2YjI4MTdjLWQ3YmQtNDRlOS1iNGMwLWU0ZDJkMzFhMmYyNCIsInB1ciI6ImJsb2JfaWQifX0=--2cf5209cd14ec24d2f352b7999ed9fd1b61cde8f/Grand-Est.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/1hh2q6c0wi5nmdvhyb822eq175c5
 

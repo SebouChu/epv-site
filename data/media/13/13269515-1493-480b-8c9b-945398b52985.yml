@@ -5,6 +5,6 @@ width: 1920
 height: 760
 ratio: 2.526315789473684
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjEzMjY5NTE1LTE0OTMtNDgwYi04YzliLTk0NTM5OGI1Mjk4NSIsInB1ciI6ImJsb2JfaWQifX0=--e1adda8b5247a91fa826df03187e612cbd75b82d/les-sables-de-labbaye.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/13hc7fm81vdmyrw3zg485ycs40an
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjEzMjY5NTE1LTE0OTMtNDgwYi04YzliLTk0NTM5OGI1Mjk4NSIsInB1ciI6ImJsb2JfaWQifX0=--b81fe2c8fab818fd242de2e3c39aed6a7acfdac8/les-sables-de-labbaye.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/13hc7fm81vdmyrw3zg485ycs40an
 

@@ -5,6 +5,6 @@ width: 1152
 height: 1440
 ratio: 0.8
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVjODBjYTg2LTRkNDctNGQ0ZS04MzJiLWY5ZTQ1ZWFkMzc4NSIsInB1ciI6ImJsb2JfaWQifX0=--2828ca9cf53a3ea48faaf05b2055a219bcc39b8a/arsen-biscuiterie-jeannette-1850-madeleines-dans-une-assiette.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/ktm7k12909ifekibu4ol3i89dry9
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVjODBjYTg2LTRkNDctNGQ0ZS04MzJiLWY5ZTQ1ZWFkMzc4NSIsInB1ciI6ImJsb2JfaWQifX0=--65f4da304a801faf7f85f5ffbe07701c37001569/arsen-biscuiterie-jeannette-1850-madeleines-dans-une-assiette.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ktm7k12909ifekibu4ol3i89dry9
 

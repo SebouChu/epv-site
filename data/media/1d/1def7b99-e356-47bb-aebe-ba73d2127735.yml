@@ -5,6 +5,6 @@ width: 2395
 height: 2395
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjFkZWY3Yjk5LWUzNTYtNDdiYi1hZWJlLWJhNzNkMjEyNzczNSIsInB1ciI6ImJsb2JfaWQifX0=--1d41ff02e417dd52b28a7a273f82833ef5456c17/Alexia-BOULIER-001-100124.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/ofqwgy5cy6xsfw35gmognnqid2ai
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjFkZWY3Yjk5LWUzNTYtNDdiYi1hZWJlLWJhNzNkMjEyNzczNSIsInB1ciI6ImJsb2JfaWQifX0=--a2f2c3fdebee094eeb5a3a01eb8b4579a8ae1b27/Alexia-BOULIER-001-100124.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ofqwgy5cy6xsfw35gmognnqid2ai
 

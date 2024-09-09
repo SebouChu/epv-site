@@ -5,6 +5,6 @@ width: 1080
 height: 1440
 ratio: 0.75
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImU5Y2I2ZTUzLTg4ZmItNDcyYy04OGVhLTljY2U3MDAzZmNjNiIsInB1ciI6ImJsb2JfaWQifX0=--c2e5b3f7a72d578e40ecc118ef416a963036cbad/arsen-ateliers-christophe-benard-eglise-d_auzouville-auberbosc.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/8sxssonyk6jtwvvdgz4koy3z62g7
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImU5Y2I2ZTUzLTg4ZmItNDcyYy04OGVhLTljY2U3MDAzZmNjNiIsInB1ciI6ImJsb2JfaWQifX0=--1c5e6039c0750736318d0fb8be5d48b014852e07/arsen-ateliers-christophe-benard-eglise-d_auzouville-auberbosc.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/8sxssonyk6jtwvvdgz4koy3z62g7
 

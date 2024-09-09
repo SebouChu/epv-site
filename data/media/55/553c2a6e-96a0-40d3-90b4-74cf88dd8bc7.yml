@@ -5,6 +5,6 @@ width: 385
 height: 500
 ratio: 0.77
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjU1M2MyYTZlLTk2YTAtNDBkMy05MGI0LTc0Y2Y4OGRkOGJjNyIsInB1ciI6ImJsb2JfaWQifX0=--0efdcb9342ceafaa35a1f1b3b423e4583a9b66cd/mesurer-et-marquer.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/ffwlk8b9ogmhg7k912duagax3d6b
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjU1M2MyYTZlLTk2YTAtNDBkMy05MGI0LTc0Y2Y4OGRkOGJjNyIsInB1ciI6ImJsb2JfaWQifX0=--2f948f9e4df956e2bc4cac1780f9a90eab73f8de/mesurer-et-marquer.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ffwlk8b9ogmhg7k912duagax3d6b
 
