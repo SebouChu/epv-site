@@ -5,6 +5,6 @@ width: 768
 height: 1151
 ratio: 0.6672458731537794
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijk4NWZhNTk5LTY0OWUtNGRlMS05MGFjLTg1YjgwYTljMGUzZCIsInB1ciI6ImJsb2JfaWQifX0=--dce844710ceb2c8272683413edc1913cbbdf8a77/atelier-cyril-gouty-maitre-verrier-vitrail-vitraux-normandie-calvados-artisan-768x1151.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/zbtjxz8y4fsx6qyxpjy9dnlzax7k
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijk4NWZhNTk5LTY0OWUtNGRlMS05MGFjLTg1YjgwYTljMGUzZCIsInB1ciI6ImJsb2JfaWQifX0=--52c0ef7cc00252c1fe43c84a50ee9c2c4ac6d197/atelier-cyril-gouty-maitre-verrier-vitrail-vitraux-normandie-calvados-artisan-768x1151.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/zbtjxz8y4fsx6qyxpjy9dnlzax7k
 
