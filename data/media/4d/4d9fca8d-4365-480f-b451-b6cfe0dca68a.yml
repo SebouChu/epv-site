@@ -5,6 +5,6 @@ width: 200
 height: 200
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjRkOWZjYThkLTQzNjUtNDgwZi1iNDUxLWI2Y2ZlMGRjYTY4YSIsInB1ciI6ImJsb2JfaWQifX0=--096a57dc959f756f1c8df002f8bc2cab71845e00/atelier_coralie_barbe_logo.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/ez1q2sfrg8hdnl4tqlsjgwx1903o
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjRkOWZjYThkLTQzNjUtNDgwZi1iNDUxLWI2Y2ZlMGRjYTY4YSIsInB1ciI6ImJsb2JfaWQifX0=--87959089acde785614e74a861fcf1caba119a744/atelier_coralie_barbe_logo.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ez1q2sfrg8hdnl4tqlsjgwx1903o
 

@@ -5,6 +5,6 @@ width: 191
 height: 151
 ratio: 1.2649006622516556
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVjNjRhNGJlLTk4YmQtNDVhYS05MjZmLThhZjVkYThkYjEyOCIsInB1ciI6ImJsb2JfaWQifX0=--0cfc7c0f5823e4856795bf632d06c88e85982710/androuet_logo.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/8q5v1ftrw0my8fsli5t6sp246762
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVjNjRhNGJlLTk4YmQtNDVhYS05MjZmLThhZjVkYThkYjEyOCIsInB1ciI6ImJsb2JfaWQifX0=--37846b2af2da9476601b948d9de4c10bf4e16631/androuet_logo.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/8q5v1ftrw0my8fsli5t6sp246762
 

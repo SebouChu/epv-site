@@ -5,6 +5,6 @@ width: 400
 height: 270
 ratio: 1.4814814814814814
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJkYTFhYzg4LTEwNzgtNDJhNy04YmQzLTljMTFhN2JhZjczYSIsInB1ciI6ImJsb2JfaWQifX0=--2a1fa5693cfabefe7fd38b364b06d6cd1b8e9319/logo-logis-home.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/j1sxrijmytmecqgr83cagvhua7g4
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJkYTFhYzg4LTEwNzgtNDJhNy04YmQzLTljMTFhN2JhZjczYSIsInB1ciI6ImJsb2JfaWQifX0=--2cce2134aa5b39239f8386d23bf72021dd99e450/logo-logis-home.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/j1sxrijmytmecqgr83cagvhua7g4
 
