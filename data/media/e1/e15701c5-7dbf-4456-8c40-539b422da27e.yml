@@ -5,6 +5,6 @@ width: 341
 height: 148
 ratio: 2.304054054054054
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImUxNTcwMWM1LTdkYmYtNDQ1Ni04YzQwLTUzOWI0MjJkYTI3ZSIsInB1ciI6ImJsb2JfaWQifX0=--410d7c89ba1c176419e4027530f9b1b9b3b78b54/Jacquenet.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/ahmtgc28wv3m3l286bikp3berq25
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImUxNTcwMWM1LTdkYmYtNDQ1Ni04YzQwLTUzOWI0MjJkYTI3ZSIsInB1ciI6ImJsb2JfaWQifX0=--0f62223ba94d6f4fe4fa3d2b7933d8679c409a72/Jacquenet.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ahmtgc28wv3m3l286bikp3berq25
 

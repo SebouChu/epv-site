@@ -5,6 +5,6 @@ width: 460
 height: 130
 ratio: 3.5384615384615383
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNkM2I1NWY5LWJlZDQtNDM4ZS05Y2M2LWJiNGU1MGUyODhjNiIsInB1ciI6ImJsb2JfaWQifX0=--b025c637c1bf03b154c6a0a09df5be636ba52461/pain-epice.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/wsjbgwh7p5si8qbd3c13199kuy2y
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNkM2I1NWY5LWJlZDQtNDM4ZS05Y2M2LWJiNGU1MGUyODhjNiIsInB1ciI6ImJsb2JfaWQifX0=--140dce81b13df97d8c54c7ebbea97d7ab18e1773/pain-epice.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/wsjbgwh7p5si8qbd3c13199kuy2y
 

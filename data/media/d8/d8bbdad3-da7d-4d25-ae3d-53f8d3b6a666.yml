@@ -5,6 +5,6 @@ width: 400
 height: 400
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ4YmJkYWQzLWRhN2QtNGQyNS1hZTNkLTUzZjhkM2I2YTY2NiIsInB1ciI6ImJsb2JfaWQifX0=--2285031440777c14aae2b6b93435986725b16556/La-rochere.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/ibe265qbs3c6hxspe56nn6pf8g44
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ4YmJkYWQzLWRhN2QtNGQyNS1hZTNkLTUzZjhkM2I2YTY2NiIsInB1ciI6ImJsb2JfaWQifX0=--2d4498e5e7718d46332e87bf354edec0ed109e38/La-rochere.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ibe265qbs3c6hxspe56nn6pf8g44
 

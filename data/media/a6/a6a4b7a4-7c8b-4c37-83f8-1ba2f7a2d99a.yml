@@ -5,6 +5,6 @@ width: 470
 height: 300
 ratio: 1.5666666666666667
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImE2YTRiN2E0LTdjOGItNGMzNy04M2Y4LTFiYTJmN2EyZDk5YSIsInB1ciI6ImJsb2JfaWQifX0=--e2ec69f787e0b994c1d114acfe4c6b35c477c947/lejay-logo_rvb-470x300.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/adfp45221bs3px0omqd2e8kdvwci
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImE2YTRiN2E0LTdjOGItNGMzNy04M2Y4LTFiYTJmN2EyZDk5YSIsInB1ciI6ImJsb2JfaWQifX0=--807d938b47a66a0b3f148cbad6637cbabd48ec59/lejay-logo_rvb-470x300.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/adfp45221bs3px0omqd2e8kdvwci
 

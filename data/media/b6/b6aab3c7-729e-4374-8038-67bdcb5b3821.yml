@@ -5,6 +5,6 @@ width: 250
 height: 189
 ratio: 1.3227513227513228
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImI2YWFiM2M3LTcyOWUtNDM3NC04MDM4LTY3YmRjYjViMzgyMSIsInB1ciI6ImJsb2JfaWQifX0=--329500fbec95f49e1c63fd8bb5823e2d46ca75ed/logo-distillerie-guy-pontarlier-anis.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/406qy4w6i94op7oth4qyb93qexfm
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImI2YWFiM2M3LTcyOWUtNDM3NC04MDM4LTY3YmRjYjViMzgyMSIsInB1ciI6ImJsb2JfaWQifX0=--a0dee8f784b528fe447f84dffe3795df9ae171e5/logo-distillerie-guy-pontarlier-anis.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/406qy4w6i94op7oth4qyb93qexfm
 

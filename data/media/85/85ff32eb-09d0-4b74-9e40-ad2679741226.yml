@@ -5,6 +5,6 @@ width: 360
 height: 192
 ratio: 1.875
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg1ZmYzMmViLTA5ZDAtNGI3NC05ZTQwLWFkMjY3OTc0MTIyNiIsInB1ciI6ImJsb2JfaWQifX0=--d779eea6657a50f038c265bff3a383452fe32645/Lacanche-logo.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/w1qlqrlfmltt3lio7o7xf9swvg3p
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg1ZmYzMmViLTA5ZDAtNGI3NC05ZTQwLWFkMjY3OTc0MTIyNiIsInB1ciI6ImJsb2JfaWQifX0=--2796437bc512b28a418c0c6c68ac8abed2ce5326/Lacanche-logo.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/w1qlqrlfmltt3lio7o7xf9swvg3p
 
