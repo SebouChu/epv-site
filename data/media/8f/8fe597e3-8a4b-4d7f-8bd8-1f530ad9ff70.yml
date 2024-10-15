@@ -5,6 +5,6 @@ width: 612
 height: 306
 ratio: 2.0
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhmZTU5N2UzLThhNGItNGQ3Zi04YmQ4LTFmNTMwYWQ5ZmY3MCIsInB1ciI6ImJsb2JfaWQifX0=--b1caee364a8f0e58cb9d6625eeb2de91753a1b4c/marseille-business-fievet-epv.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/jzr83e0j7dix8o5m560jdi936gne
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhmZTU5N2UzLThhNGItNGQ3Zi04YmQ4LTFmNTMwYWQ5ZmY3MCIsInB1ciI6ImJsb2JfaWQifX0=--94080e57cfffb83f3b7ea3926fb07d57a50bac0a/marseille-business-fievet-epv.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/jzr83e0j7dix8o5m560jdi936gne
 

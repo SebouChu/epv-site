@@ -5,6 +5,6 @@ width: 531
 height: 208
 ratio: 2.5528846153846154
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjFjZWE4MGZhLTkzYTktNDYwNS04NWYzLWFmNzIzMTgxNTFhMCIsInB1ciI6ImJsb2JfaWQifX0=--52c5ad67d1436acb89b95499ffd740f353f5e7cd/LOGO-BVT-complet.PNG
-direct_url: https://osuny.s3.fr-par.scw.cloud/dkzrzrcetxl7s5hqftv8tx5z0m0r
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjFjZWE4MGZhLTkzYTktNDYwNS04NWYzLWFmNzIzMTgxNTFhMCIsInB1ciI6ImJsb2JfaWQifX0=--07d93c4d767b94e6a47c2f997e4088da0600c0b2/LOGO-BVT-complet.PNG
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/dkzrzrcetxl7s5hqftv8tx5z0m0r
 

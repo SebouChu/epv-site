@@ -5,6 +5,6 @@ width: 1895
 height: 1390
 ratio: 1.3633093525179856
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVhNzg3ZDE0LWQzMzgtNDNkMC05N2I3LTA1ZjgxNDM2MzUzOSIsInB1ciI6ImJsb2JfaWQifX0=--ce828d3417eb9e5cc91be2ffec769c19726c77e7/Logo_RoyRene-depuis-1920.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/m4zbfeqquib7vs1e7b56nan3sieu
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVhNzg3ZDE0LWQzMzgtNDNkMC05N2I3LTA1ZjgxNDM2MzUzOSIsInB1ciI6ImJsb2JfaWQifX0=--099e5191769fd58041aabda5c9a55e1ee40c72db/Logo_RoyRene-depuis-1920.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/m4zbfeqquib7vs1e7b56nan3sieu
 

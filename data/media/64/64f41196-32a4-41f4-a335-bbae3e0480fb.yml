@@ -5,6 +5,6 @@ width: 768
 height: 768
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjY0ZjQxMTk2LTMyYTQtNDFmNC1hMzM1LWJiYWUzZTA0ODBmYiIsInB1ciI6ImJsb2JfaWQifX0=--2a07bc45ba0bf7f4d0922a2d0c3599fcfb9559ce/epvregionsud_1670439607_2988186454441639189_47433347036.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/7fcyz2vcqwus48ele4z47lx5nj0o
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjY0ZjQxMTk2LTMyYTQtNDFmNC1hMzM1LWJiYWUzZTA0ODBmYiIsInB1ciI6ImJsb2JfaWQifX0=--59ec90e5d722b2eac0e15ff745d11fb3bb312a7f/epvregionsud_1670439607_2988186454441639189_47433347036.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/7fcyz2vcqwus48ele4z47lx5nj0o
 

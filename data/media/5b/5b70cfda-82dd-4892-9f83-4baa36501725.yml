@@ -5,6 +5,6 @@ width: 1181
 height: 1181
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjViNzBjZmRhLTgyZGQtNDg5Mi05ZjgzLTRiYWEzNjUwMTcyNSIsInB1ciI6ImJsb2JfaWQifX0=--312a8ef82b406f6dac3c69a5dda0b404fc0e1f24/Groupe-Perrin.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/c6o7bc7yqtynwbdne7yiazp4ngmq
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjViNzBjZmRhLTgyZGQtNDg5Mi05ZjgzLTRiYWEzNjUwMTcyNSIsInB1ciI6ImJsb2JfaWQifX0=--4d16403e1d58922828ccad5d85003e9bfb54bd0a/Groupe-Perrin.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/c6o7bc7yqtynwbdne7yiazp4ngmq
 

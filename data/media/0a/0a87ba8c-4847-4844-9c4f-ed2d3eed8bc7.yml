@@ -5,6 +5,6 @@ width: 425
 height: 425
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBhODdiYThjLTQ4NDctNDg0NC05YzRmLWVkMmQzZWVkOGJjNyIsInB1ciI6ImJsb2JfaWQifX0=--5087671fa9a2829a89d9dc1fc5544c1b4ec5a57f/Cristel.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/3f5xvpbdl7aef16svgqitefozizr
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBhODdiYThjLTQ4NDctNDg0NC05YzRmLWVkMmQzZWVkOGJjNyIsInB1ciI6ImJsb2JfaWQifX0=--c8c0b3ae5d843c49cc6ad2333239b259bb735d50/Cristel.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/3f5xvpbdl7aef16svgqitefozizr
 
