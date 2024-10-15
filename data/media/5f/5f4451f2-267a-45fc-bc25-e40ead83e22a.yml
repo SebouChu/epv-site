@@ -5,6 +5,6 @@ width: 250
 height: 73
 ratio: 3.4246575342465753
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVmNDQ1MWYyLTI2N2EtNDVmYy1iYzI1LWU0MGVhZDgzZTIyYSIsInB1ciI6ImJsb2JfaWQifX0=--f5a925ac5b04cf203b70de0982dc24b99602677e/cornu_logo.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/65m6y1jo772h4gbafk19ztjcf5es
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVmNDQ1MWYyLTI2N2EtNDVmYy1iYzI1LWU0MGVhZDgzZTIyYSIsInB1ciI6ImJsb2JfaWQifX0=--5c76cff4b600a2a2abcfd6703661c9e7701d7280/cornu_logo.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/65m6y1jo772h4gbafk19ztjcf5es
 

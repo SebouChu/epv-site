@@ -5,6 +5,6 @@ width: 341
 height: 86
 ratio: 3.9651162790697674
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImViZTVmMzVhLWJjYzYtNGI3YS1iYWZhLTlmNTcyZmQxM2I4OCIsInB1ciI6ImJsb2JfaWQifX0=--a00916c88eca7ed143a96a3c3f32aad0180d6742/Lemaitre-Demeestere.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/p63b5b8krbeptor78d1xbqly4291
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImViZTVmMzVhLWJjYzYtNGI3YS1iYWZhLTlmNTcyZmQxM2I4OCIsInB1ciI6ImJsb2JfaWQifX0=--2f7ae35cd5aaafc8f12d9c73f70fe0e281917e96/Lemaitre-Demeestere.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/p63b5b8krbeptor78d1xbqly4291
 

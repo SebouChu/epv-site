@@ -5,6 +5,6 @@ width: 2303
 height: 1456
 ratio: 1.5817307692307692
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjIyNjYxMTNhLWNjMGEtNGUyMC04M2M4LWNhNjQ4MDZhMGJjNCIsInB1ciI6ImJsb2JfaWQifX0=--7d73a3d46f9cf04910031f833d4c82c9f901fa9b/Remy-Garnier-LOGO-noir.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/wzpg56u8w695pxa4of1xg90o3dsf
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjIyNjYxMTNhLWNjMGEtNGUyMC04M2M4LWNhNjQ4MDZhMGJjNCIsInB1ciI6ImJsb2JfaWQifX0=--7610fff1c8adfed154dae3b0e7e999b56cf2421c/Remy-Garnier-LOGO-noir.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/wzpg56u8w695pxa4of1xg90o3dsf
 

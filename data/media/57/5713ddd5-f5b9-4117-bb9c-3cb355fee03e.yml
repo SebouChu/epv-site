@@ -5,6 +5,6 @@ width: 340
 height: 260
 ratio: 1.3076923076923077
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjU3MTNkZGQ1LWY1YjktNDExNy1iYjljLTNjYjM1NWZlZTAzZSIsInB1ciI6ImJsb2JfaWQifX0=--e83a61c9b37d96b2fc87fb1239fe9a0273a1f365/Ets-Beauvillain-Davoine.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/lpl8bvc0ela82w7podxrcdtxa159
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjU3MTNkZGQ1LWY1YjktNDExNy1iYjljLTNjYjM1NWZlZTAzZSIsInB1ciI6ImJsb2JfaWQifX0=--c1ea8154ffe5da659da9a8769afa508ac271d6e5/Ets-Beauvillain-Davoine.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/lpl8bvc0ela82w7podxrcdtxa159
 

@@ -5,6 +5,6 @@ width: 300
 height: 300
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImYzYjRiZDg0LTg4YmQtNDAyMy04MDY3LTM1MzBlODVjNDkwYyIsInB1ciI6ImJsb2JfaWQifX0=--bb40ea3741acdab0303448688f753cadeb28ebf4/COLIN-SARL-LES-FAISEURS-DE-BATEAUX.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/engrbasiwi3bmzscjmx1tqbqbb6y
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImYzYjRiZDg0LTg4YmQtNDAyMy04MDY3LTM1MzBlODVjNDkwYyIsInB1ciI6ImJsb2JfaWQifX0=--b072fc56ea4e3eef9d6b3c72d1ec5f8db5480a12/COLIN-SARL-LES-FAISEURS-DE-BATEAUX.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/engrbasiwi3bmzscjmx1tqbqbb6y
 

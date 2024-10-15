@@ -5,6 +5,6 @@ width: 300
 height: 278
 ratio: 1.079136690647482
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdjZjlkMmYxLTEyOTAtNDUxYi04MTBlLTU0MzhiMDhkODZkNiIsInB1ciI6ImJsb2JfaWQifX0=--b59a3d2e6217eec5be037cfae6e793a8d23afc70/JMB-TAILLE-DE-PIERRE.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/o2z0mdbzjvulrpdyjnnkp3ax6s9f
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdjZjlkMmYxLTEyOTAtNDUxYi04MTBlLTU0MzhiMDhkODZkNiIsInB1ciI6ImJsb2JfaWQifX0=--f6e2b068ece70e1a90fad7b5396cb21925590ca7/JMB-TAILLE-DE-PIERRE.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/o2z0mdbzjvulrpdyjnnkp3ax6s9f
 

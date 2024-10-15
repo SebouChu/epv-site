@@ -5,6 +5,6 @@ width: 300
 height: 300
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlkZWVlZmU3LTE0NDItNGQzZS1hYTFjLWRlOTI5MmUzODQzOSIsInB1ciI6ImJsb2JfaWQifX0=--879f73c9c8d6212e0ea4086ce7a3d7403e1654f2/Ets-Winckelmans.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/su9e2khvpcfma4gg1alw43di0v2u
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlkZWVlZmU3LTE0NDItNGQzZS1hYTFjLWRlOTI5MmUzODQzOSIsInB1ciI6ImJsb2JfaWQifX0=--e97dfdc5f995035d21a30503f5cfdd4a8e1cb383/Ets-Winckelmans.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/su9e2khvpcfma4gg1alw43di0v2u
 

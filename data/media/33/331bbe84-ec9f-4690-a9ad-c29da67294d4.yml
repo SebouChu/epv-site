@@ -5,6 +5,6 @@ width: 300
 height: 39
 ratio: 7.6923076923076925
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjMzMWJiZTg0LWVjOWYtNDY5MC1hOWFkLWMyOWRhNjcyOTRkNCIsInB1ciI6ImJsb2JfaWQifX0=--7fed15072362554a3f92a4a6d5bf09bbf265dcdb/Faiences-Ponchon.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/m2588emcj3ekrz6af8e1g6fx49uk
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjMzMWJiZTg0LWVjOWYtNDY5MC1hOWFkLWMyOWRhNjcyOTRkNCIsInB1ciI6ImJsb2JfaWQifX0=--e4d477dd9dfb932929926dc7129243053036b1a9/Faiences-Ponchon.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/m2588emcj3ekrz6af8e1g6fx49uk
 

@@ -5,6 +5,6 @@ width: 251
 height: 201
 ratio: 1.2487562189054726
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUyYmIyYzY2LWQ1ZGQtNGI2My04MmIwLTdiY2U2OTQwYzYzNiIsInB1ciI6ImJsb2JfaWQifX0=--4a236fda43200a7bf4ab9a4f110a56ec76a1c88a/riccoboni-logo.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/mph967e98wufl1hsss45yzkbu9q3
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUyYmIyYzY2LWQ1ZGQtNGI2My04MmIwLTdiY2U2OTQwYzYzNiIsInB1ciI6ImJsb2JfaWQifX0=--7602254d30ffaaca56e8e2c6aeb4d0e8e0f65b98/riccoboni-logo.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/mph967e98wufl1hsss45yzkbu9q3
 

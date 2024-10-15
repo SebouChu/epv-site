@@ -5,6 +5,6 @@ width: 200
 height: 200
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdiNWU1YTg4LWRkNmUtNDE4Ni1hM2IzLWU3ODUzYzE0NzBkNiIsInB1ciI6ImJsb2JfaWQifX0=--c9e2af77594ee7b05190df8e81ef1ffc41844c55/Ets-J-Toulemonde-Pere-et-Fils.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/cn6xlro0fzsnt5h0jr3wino4ee0g
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdiNWU1YTg4LWRkNmUtNDE4Ni1hM2IzLWU3ODUzYzE0NzBkNiIsInB1ciI6ImJsb2JfaWQifX0=--a45abc8d6ff0a2a5dd03d244c57627e9e17e5e1e/Ets-J-Toulemonde-Pere-et-Fils.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/cn6xlro0fzsnt5h0jr3wino4ee0g
 

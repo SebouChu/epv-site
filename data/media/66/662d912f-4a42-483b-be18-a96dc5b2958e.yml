@@ -5,6 +5,6 @@ width: 355
 height: 142
 ratio: 2.5
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjY2MmQ5MTJmLTRhNDItNDgzYi1iZTE4LWE5NmRjNWIyOTU4ZSIsInB1ciI6ImJsb2JfaWQifX0=--4790f87d854234f40ef897c1eb20ed450fe029db/Brasserie-3-monts.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/zv0znc72r0xzp66wjf8djglgiuag
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjY2MmQ5MTJmLTRhNDItNDgzYi1iZTE4LWE5NmRjNWIyOTU4ZSIsInB1ciI6ImJsb2JfaWQifX0=--9300f09067f73ddf75e48948300ec00c58011f70/Brasserie-3-monts.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/zv0znc72r0xzp66wjf8djglgiuag
 

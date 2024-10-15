@@ -5,6 +5,6 @@ width: 90
 height: 90
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjI5OWI0Y2EwLWM2NjItNGJjMC1iNzc1LTY1NGZkNmQ2M2JjMCIsInB1ciI6ImJsb2JfaWQifX0=--d0079404b50d9c45be2bdcd9589eb1256d4402b6/atelier-bricout-logo-small1.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/ywykml6rhh7uq4csebjbk0cttoke
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjI5OWI0Y2EwLWM2NjItNGJjMC1iNzc1LTY1NGZkNmQ2M2JjMCIsInB1ciI6ImJsb2JfaWQifX0=--2e4fafbccffd35b6a99a26ad31736a57c2c0ad5b/atelier-bricout-logo-small1.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ywykml6rhh7uq4csebjbk0cttoke
 

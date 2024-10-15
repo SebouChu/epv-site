@@ -5,6 +5,6 @@ width: 504
 height: 100
 ratio: 5.04
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjExMTBiOWY4LTc3YmEtNGUyMS05Yzg1LTc1OTZiODM0NTQzNCIsInB1ciI6ImJsb2JfaWQifX0=--4b7cca542097c6694b69094770997fd4c281a479/Maitres-Robinetiers-de-France.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/lckncfyk8r9dv0dpvp8jmd5yuzjj
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjExMTBiOWY4LTc3YmEtNGUyMS05Yzg1LTc1OTZiODM0NTQzNCIsInB1ciI6ImJsb2JfaWQifX0=--1bfe60dc6b5f8f80ad2be6b072e04425dd5f8e63/Maitres-Robinetiers-de-France.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/lckncfyk8r9dv0dpvp8jmd5yuzjj
 

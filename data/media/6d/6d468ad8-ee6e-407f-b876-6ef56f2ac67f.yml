@@ -5,6 +5,6 @@ width: 2600
 height: 2245
 ratio: 1.158129175946548
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZkNDY4YWQ4LWVlNmUtNDA3Zi1iODc2LTZlZjU2ZjJhYzY3ZiIsInB1ciI6ImJsb2JfaWQifX0=--beee238baf5901372849dc24f69028fde0355664/SIEGEAIR-LOGO.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/013qoy2rkln4idaa0v0ldsrbnkrj
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZkNDY4YWQ4LWVlNmUtNDA3Zi1iODc2LTZlZjU2ZjJhYzY3ZiIsInB1ciI6ImJsb2JfaWQifX0=--fd96867dabf94ce5e6bc87d8062183bb1de1dc83/SIEGEAIR-LOGO.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/013qoy2rkln4idaa0v0ldsrbnkrj
 

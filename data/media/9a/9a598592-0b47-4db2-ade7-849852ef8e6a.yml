@@ -5,6 +5,6 @@ width: 236
 height: 226
 ratio: 1.0442477876106195
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlhNTk4NTkyLTBiNDctNGRiMi1hZGU3LTg0OTg1MmVmOGU2YSIsInB1ciI6ImJsb2JfaWQifX0=--5defcd4a6ef58e25b890ab54667826ef896886a6/Phelippeau-logo.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/8cwc51di8ap2rxehljcvgjf1f26r
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlhNTk4NTkyLTBiNDctNGRiMi1hZGU3LTg0OTg1MmVmOGU2YSIsInB1ciI6ImJsb2JfaWQifX0=--c6b0b30935f1ab03e150f339d3b1b310976671b9/Phelippeau-logo.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/8cwc51di8ap2rxehljcvgjf1f26r
 
