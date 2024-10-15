@@ -5,6 +5,6 @@ width: 500
 height: 600
 ratio: 0.8333333333333334
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImVkNzNhZTFjLTVlYzEtNDUxNC04YWM0LWM5NzU4Mjk3N2Q2ZCIsInB1ciI6ImJsb2JfaWQifX0=--f23ce25489bac6edcfb556289bc34c7396a044f6/Jean-Aime-Boutelier.webp
-direct_url: https://osuny.s3.fr-par.scw.cloud/q2lt581fsxw4ehbrbuoyum643cj9
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImVkNzNhZTFjLTVlYzEtNDUxNC04YWM0LWM5NzU4Mjk3N2Q2ZCIsInB1ciI6ImJsb2JfaWQifX0=--b71597cc4f0b379a145e25d25fc3f9dfa6b564d5/Jean-Aime-Boutelier.webp
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/q2lt581fsxw4ehbrbuoyum643cj9
 

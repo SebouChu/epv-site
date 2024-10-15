@@ -5,6 +5,6 @@ width: 480
 height: 640
 ratio: 0.75
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhiZjVkMzQxLTc3ZDItNDdkNS1hZGRlLWM4MGUwOGI1MzM1MCIsInB1ciI6ImJsb2JfaWQifX0=--dc2eb9201b00134051cce26406e589120548643a/photo-Olivier-et-Claire.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/j1z97oa7xnh79otmulnq1h56nap8
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhiZjVkMzQxLTc3ZDItNDdkNS1hZGRlLWM4MGUwOGI1MzM1MCIsInB1ciI6ImJsb2JfaWQifX0=--4e3e99e265cf46f07249c547edb16299b6beb589/photo-Olivier-et-Claire.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/j1z97oa7xnh79otmulnq1h56nap8
 

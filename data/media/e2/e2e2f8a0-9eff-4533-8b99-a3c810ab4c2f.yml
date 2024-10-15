@@ -5,6 +5,6 @@ width: 2986
 height: 2444
 ratio: 1.2217675941080197
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImUyZTJmOGEwLTllZmYtNDUzMy04Yjk5LWEzYzgxMGFiNGMyZiIsInB1ciI6ImJsb2JfaWQifX0=--b1cf530f90d504e41e1df00401f365deb80daa03/OCCITANIE_jacques-dillies-Hzm1Ju23buw-unsplash.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/n9nks6xabwh3a6fiun7xotogrxcp
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImUyZTJmOGEwLTllZmYtNDUzMy04Yjk5LWEzYzgxMGFiNGMyZiIsInB1ciI6ImJsb2JfaWQifX0=--fa7395178c85820e8ae240a69f666b4ded4f36e9/OCCITANIE_jacques-dillies-Hzm1Ju23buw-unsplash.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/n9nks6xabwh3a6fiun7xotogrxcp
 

@@ -5,6 +5,6 @@ width: 1280
 height: 720
 ratio: 1.7777777777777777
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjI2Y2UzYjY2LThmYjMtNDcyMC05ZmY2LTljYTQxNGFiNzdlNCIsInB1ciI6ImJsb2JfaWQifX0=--3f382806b70774db78479e06c0fd1acdcf3aeacb/saint-jean-fourviere-3598625_1280.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/y7iu3d9wccmrgne6v1dttbv4xfdn
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjI2Y2UzYjY2LThmYjMtNDcyMC05ZmY2LTljYTQxNGFiNzdlNCIsInB1ciI6ImJsb2JfaWQifX0=--e3356876e94fa03aa02cda93e791726fba8a5468/saint-jean-fourviere-3598625_1280.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/y7iu3d9wccmrgne6v1dttbv4xfdn
 

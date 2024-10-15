@@ -5,6 +5,6 @@ width: 1280
 height: 765
 ratio: 1.673202614379085
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjEwZTM5YjdiLTRiYWYtNDVkMC04YjMzLTNlMDg4OWIzNzkyZCIsInB1ciI6ImJsb2JfaWQifX0=--4febe247701b79a74460e2a5ae3710b8f75512de/CENTRE_chateau-7291256_1280.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/sexfmg09ddgock4r0nh6dpqpwiai
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjEwZTM5YjdiLTRiYWYtNDVkMC04YjMzLTNlMDg4OWIzNzkyZCIsInB1ciI6ImJsb2JfaWQifX0=--39a4a4835c7df37ec9aa4b3b1688c7a5d515d0fe/CENTRE_chateau-7291256_1280.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/sexfmg09ddgock4r0nh6dpqpwiai
 

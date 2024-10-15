@@ -5,6 +5,6 @@ width: 325
 height: 100
 ratio: 3.25
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVjNzE3ODE3LTVmMGEtNDE0MC04ZjA1LTg3MTcyYjEyNDBiYSIsInB1ciI6ImJsb2JfaWQifX0=--53ab8f0b81294111b9186be3a944299f437bde10/logo-cci-aveyron.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/6bmxr4dva7462j7gxk829gzer3mo
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVjNzE3ODE3LTVmMGEtNDE0MC04ZjA1LTg3MTcyYjEyNDBiYSIsInB1ciI6ImJsb2JfaWQifX0=--4cb1e7e6a12afa2efb6a81866af3f91816eccb76/logo-cci-aveyron.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/6bmxr4dva7462j7gxk829gzer3mo
 

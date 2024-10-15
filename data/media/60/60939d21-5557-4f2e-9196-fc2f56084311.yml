@@ -5,6 +5,6 @@ width: 1920
 height: 1080
 ratio: 1.7777777777777777
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjYwOTM5ZDIxLTU1NTctNGYyZS05MTk2LWZjMmY1NjA4NDMxMSIsInB1ciI6ImJsb2JfaWQifX0=--65b10983fbdc58fc140b373351b7ace2bf4522a7/Carte-EPV-d-Occitanie.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/91xp2zo7bm7e9ayb6fo54gmw7a09
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjYwOTM5ZDIxLTU1NTctNGYyZS05MTk2LWZjMmY1NjA4NDMxMSIsInB1ciI6ImJsb2JfaWQifX0=--46d9b69c8365d5a410abef30d41828fbb00333c9/Carte-EPV-d-Occitanie.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/91xp2zo7bm7e9ayb6fo54gmw7a09
 

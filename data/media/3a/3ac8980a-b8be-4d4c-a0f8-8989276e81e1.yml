@@ -5,6 +5,6 @@ width: 498
 height: 600
 ratio: 0.83
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNhYzg5ODBhLWI4YmUtNGQ0Yy1hMGY4LTg5ODkyNzZlODFlMSIsInB1ciI6ImJsb2JfaWQifX0=--57f997f81e35bdad5f12ee81b9d119555928cf7e/Vincent-Baldet.webp
-direct_url: https://osuny.s3.fr-par.scw.cloud/nrsrja5qd7ju3gtj55qo6rrcl4db
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNhYzg5ODBhLWI4YmUtNGQ0Yy1hMGY4LTg5ODkyNzZlODFlMSIsInB1ciI6ImJsb2JfaWQifX0=--ec0a950e9427ced3c5fe6a0c22761e0f7080aa6d/Vincent-Baldet.webp
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/nrsrja5qd7ju3gtj55qo6rrcl4db
 

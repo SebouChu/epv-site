@@ -5,6 +5,6 @@ width: 2048
 height: 1638
 ratio: 1.2503052503052503
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImNmNzVlOGYxLWNkMDctNGU0ZS1hMDQ0LTM0ODNhYTRhZmNkNiIsInB1ciI6ImJsb2JfaWQifX0=--1b054a33081eb15a884c7e293fe6db1d0d7d39bb/artiste-smiley-faisant-poterie-scaled.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/glp9ht4lwmm5tjqlikuv54sx96fm
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImNmNzVlOGYxLWNkMDctNGU0ZS1hMDQ0LTM0ODNhYTRhZmNkNiIsInB1ciI6ImJsb2JfaWQifX0=--35e7913b56c104896973e78155639aa487c10ccb/artiste-smiley-faisant-poterie-scaled.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/glp9ht4lwmm5tjqlikuv54sx96fm
 
