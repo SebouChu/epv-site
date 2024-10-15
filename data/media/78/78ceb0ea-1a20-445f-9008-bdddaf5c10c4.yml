@@ -5,6 +5,6 @@ width: 2395
 height: 2395
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijc4Y2ViMGVhLTFhMjAtNDQ1Zi05MDA4LWJkZGRhZjVjMTBjNCIsInB1ciI6ImJsb2JfaWQifX0=--38d188ec30b62f1bc2b9902bdd69db283c026334/Simon-PHILIPOT-002-100124.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/a53zvllx6uf052hfgd7rydbed0aw
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijc4Y2ViMGVhLTFhMjAtNDQ1Zi05MDA4LWJkZGRhZjVjMTBjNCIsInB1ciI6ImJsb2JfaWQifX0=--4fdd3316e6c18923ba5e31ac5d2788a2ff02adb9/Simon-PHILIPOT-002-100124.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/a53zvllx6uf052hfgd7rydbed0aw
 

@@ -5,6 +5,6 @@ width: 200
 height: 200
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ2NTUyMjY3LTIyYTAtNDBmNy04ZTRkLThmNDYyMTM1YWU3MyIsInB1ciI6ImJsb2JfaWQifX0=--0d506d7f8c538ea81780e15115c55f4ca1e2e9f5/CMA-AURA.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/0kjndaai5d8do59k2acov1n33208
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ2NTUyMjY3LTIyYTAtNDBmNy04ZTRkLThmNDYyMTM1YWU3MyIsInB1ciI6ImJsb2JfaWQifX0=--2ba8c0618dad3a549fa2c82f1716dc9105df03f3/CMA-AURA.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/0kjndaai5d8do59k2acov1n33208
 

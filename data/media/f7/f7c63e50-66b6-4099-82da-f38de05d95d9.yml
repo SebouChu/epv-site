@@ -5,6 +5,6 @@ width: 306
 height: 306
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImY3YzYzZTUwLTY2YjYtNDA5OS04MmRhLWYzOGRlMDVkOTVkOSIsInB1ciI6ImJsb2JfaWQifX0=--a93b7c3dffd0b3783332717ff85f1534c3bb0f4e/Franck-Isel-Cornu.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/hzsm0uiashvs2jv6170y9x8rr0yc
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImY3YzYzZTUwLTY2YjYtNDA5OS04MmRhLWYzOGRlMDVkOTVkOSIsInB1ciI6ImJsb2JfaWQifX0=--4a8f25065929062eda56970cdf4b60e4d4454a01/Franck-Isel-Cornu.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/hzsm0uiashvs2jv6170y9x8rr0yc
 

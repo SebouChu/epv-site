@@ -5,6 +5,6 @@ width: 6000
 height: 3555
 ratio: 1.6877637130801688
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjM3ZDA5NDA2LTQ2ZmMtNDI3Ny04MDBmLTdhZjkzZGM0NzM0YiIsInB1ciI6ImJsb2JfaWQifX0=--a14a2eb164473290a92468a35d4ac302add60868/sascha-sturm-N2ESK-RS9ks-unsplash.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/z9mfixu7az7liv6gc2k71d3m3mxk
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjM3ZDA5NDA2LTQ2ZmMtNDI3Ny04MDBmLTdhZjkzZGM0NzM0YiIsInB1ciI6ImJsb2JfaWQifX0=--73f815ceff95fcb2ad042691afa50e470a79d31a/sascha-sturm-N2ESK-RS9ks-unsplash.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/z9mfixu7az7liv6gc2k71d3m3mxk
 

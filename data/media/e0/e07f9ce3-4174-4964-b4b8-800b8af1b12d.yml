@@ -5,6 +5,6 @@ width: 1280
 height: 722
 ratio: 1.7728531855955678
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImUwN2Y5Y2UzLTQxNzQtNDk2NC1iNGI4LTgwMGI4YWYxYjEyZCIsInB1ciI6ImJsb2JfaWQifX0=--9842e33b2fc47cbec759a43cb0fd952a35e33247/NORMANDIE_mont-saint-michel-2489345_1280.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/x1pyiqfy94incwu4fmkg8u04259f
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImUwN2Y5Y2UzLTQxNzQtNDk2NC1iNGI4LTgwMGI4YWYxYjEyZCIsInB1ciI6ImJsb2JfaWQifX0=--b7f3ead2f105d0a52e5cd03e60ad513dadeb80f1/NORMANDIE_mont-saint-michel-2489345_1280.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/x1pyiqfy94incwu4fmkg8u04259f
 
