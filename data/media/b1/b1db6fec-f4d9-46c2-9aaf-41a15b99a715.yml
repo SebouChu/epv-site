@@ -5,6 +5,6 @@ width: 600
 height: 339
 ratio: 1.7699115044247788
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImIxZGI2ZmVjLWY0ZDktNDZjMi05YWFmLTQxYTE1Yjk5YTcxNSIsInB1ciI6ImJsb2JfaWQifX0=--21474ec2ffcf7d1ca6f52fa387120444a81ddac6/Logo-Perceval-White.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/wu4bhn9056gytglwktzaycx6qyv0
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImIxZGI2ZmVjLWY0ZDktNDZjMi05YWFmLTQxYTE1Yjk5YTcxNSIsInB1ciI6ImJsb2JfaWQifX0=--1dd2c2cfdf31baae08fde4eaa5fb249ebcaf47b9/Logo-Perceval-White.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/wu4bhn9056gytglwktzaycx6qyv0
 

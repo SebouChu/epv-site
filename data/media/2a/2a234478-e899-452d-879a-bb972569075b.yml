@@ -5,6 +5,6 @@ width: 187
 height: 168
 ratio: 1.1130952380952381
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJhMjM0NDc4LWU4OTktNDUyZC04NzlhLWJiOTcyNTY5MDc1YiIsInB1ciI6ImJsb2JfaWQifX0=--6a078d35f42ef078c6257b25d43cef5f79963a48/ATELIER-4-COLLINES.JPG
-direct_url: https://osuny.s3.fr-par.scw.cloud/b2xi526l1smlgqj24czhtyhkn6gs
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJhMjM0NDc4LWU4OTktNDUyZC04NzlhLWJiOTcyNTY5MDc1YiIsInB1ciI6ImJsb2JfaWQifX0=--7865c1ab19d9ea6a677484643da8d9d6eafc66af/ATELIER-4-COLLINES.JPG
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/b2xi526l1smlgqj24czhtyhkn6gs
 

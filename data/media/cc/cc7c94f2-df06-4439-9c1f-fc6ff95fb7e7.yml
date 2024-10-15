@@ -5,6 +5,6 @@ width: 189
 height: 37
 ratio: 5.108108108108108
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImNjN2M5NGYyLWRmMDYtNDQzOS05YzFmLWZjNmZmOTVmYjdlNyIsInB1ciI6ImJsb2JfaWQifX0=--8c5d961065bd4b691ac0688300588710db30d5c9/logo-AtelierPaulHoffmann-Sans-texte-GRIS.svg
-direct_url: https://osuny.s3.fr-par.scw.cloud/zw0teh3miunnptrglteizxqoj3dj
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImNjN2M5NGYyLWRmMDYtNDQzOS05YzFmLWZjNmZmOTVmYjdlNyIsInB1ciI6ImJsb2JfaWQifX0=--e955a427959d93b1046cdf216d432131180ed6cc/logo-AtelierPaulHoffmann-Sans-texte-GRIS.svg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/zw0teh3miunnptrglteizxqoj3dj
 

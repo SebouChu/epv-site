@@ -5,6 +5,6 @@ width: 300
 height: 98
 ratio: 3.061224489795918
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImEwNGYwMTc4LWY2YzgtNDg2Ni04ZTVkLTU1MjQyOTdmYzg5MSIsInB1ciI6ImJsb2JfaWQifX0=--324ec8d1a4ec90776b7dc693e43066680f58b9f3/Bellon-logo-300x98-1.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/bepd20oe3n9sewkkccbosviktlla
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImEwNGYwMTc4LWY2YzgtNDg2Ni04ZTVkLTU1MjQyOTdmYzg5MSIsInB1ciI6ImJsb2JfaWQifX0=--ac45173a508ba252ce58df90a2e1b056bdf2833d/Bellon-logo-300x98-1.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/bepd20oe3n9sewkkccbosviktlla
 

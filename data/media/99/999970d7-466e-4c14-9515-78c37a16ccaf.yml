@@ -5,6 +5,6 @@ width: 298
 height: 125
 ratio: 2.384
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijk5OTk3MGQ3LTQ2NmUtNGMxNC05NTE1LTc4YzM3YTE2Y2NhZiIsInB1ciI6ImJsb2JfaWQifX0=--00f14392432d3335387001e8fdad850290d26265/blaisefreres_logotype_header.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/orz3eybw31ovc8q1imcsftusfwhy
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijk5OTk3MGQ3LTQ2NmUtNGMxNC05NTE1LTc4YzM3YTE2Y2NhZiIsInB1ciI6ImJsb2JfaWQifX0=--292b26daa8c74eb98b7b43cd6eba0c78d8c52594/blaisefreres_logotype_header.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/orz3eybw31ovc8q1imcsftusfwhy
 

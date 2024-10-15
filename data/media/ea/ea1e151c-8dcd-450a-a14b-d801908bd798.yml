@@ -5,6 +5,6 @@ width: 155
 height: 116
 ratio: 1.3362068965517242
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImVhMWUxNTFjLThkY2QtNDUwYS1hMTRiLWQ4MDE5MDhiZDc5OCIsInB1ciI6ImJsb2JfaWQifX0=--d7b2f69b5952be9761cb4aaa5c287f7538379483/Capture-d-ecran-2024-04-08-123233.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/58ybpgh38atromo8votsq1ew14bk
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImVhMWUxNTFjLThkY2QtNDUwYS1hMTRiLWQ4MDE5MDhiZDc5OCIsInB1ciI6ImJsb2JfaWQifX0=--038a5a687929347900e8bf2fe11ac6312e31a8d9/Capture-d-ecran-2024-04-08-123233.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/58ybpgh38atromo8votsq1ew14bk
 
