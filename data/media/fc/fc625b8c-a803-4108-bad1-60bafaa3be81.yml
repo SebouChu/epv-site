@@ -5,6 +5,6 @@ width: 199
 height: 171
 ratio: 1.1637426900584795
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImZjNjI1YjhjLWE4MDMtNDEwOC1iYWQxLTYwYmFmYWEzYmU4MSIsInB1ciI6ImJsb2JfaWQifX0=--9973b62d963f8fdea60fcde7d32de805adfbf009/Hautes-Pyrenees-ciergerie-Lourdaise.svg
-direct_url: https://osuny.s3.fr-par.scw.cloud/mcyq3ovi8rclha8g74e30coiik4y
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImZjNjI1YjhjLWE4MDMtNDEwOC1iYWQxLTYwYmFmYWEzYmU4MSIsInB1ciI6ImJsb2JfaWQifX0=--d6f6a695700fa75dd06abf968a4ec5931e25c2f6/Hautes-Pyrenees-ciergerie-Lourdaise.svg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/mcyq3ovi8rclha8g74e30coiik4y
 

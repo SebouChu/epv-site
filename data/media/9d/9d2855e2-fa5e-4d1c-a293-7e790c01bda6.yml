@@ -5,6 +5,6 @@ width: 1394
 height: 1370
 ratio: 1.0175182481751825
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlkMjg1NWUyLWZhNWUtNGQxYy1hMjkzLTdlNzkwYzAxYmRhNiIsInB1ciI6ImJsb2JfaWQifX0=--9575e3b863378fa5415b48835d2b9775832eb917/Logo-St-Eloi.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/ptd5rqizzxxhez6f5tb8v6rywy3y
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlkMjg1NWUyLWZhNWUtNGQxYy1hMjkzLTdlNzkwYzAxYmRhNiIsInB1ciI6ImJsb2JfaWQifX0=--280095f551b74e6dc4cecc048101d757268279c0/Logo-St-Eloi.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ptd5rqizzxxhez6f5tb8v6rywy3y
 

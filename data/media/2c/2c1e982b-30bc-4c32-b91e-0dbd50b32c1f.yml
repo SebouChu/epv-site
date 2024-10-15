@@ -5,6 +5,6 @@ width: 282
 height: 93
 ratio: 3.032258064516129
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJjMWU5ODJiLTMwYmMtNGMzMi1iOTFlLTBkYmQ1MGIzMmMxZiIsInB1ciI6ImJsb2JfaWQifX0=--ca5e99807dbe02cf996fd34a4ead5466d54e2057/logo-decotec-e1617193885354.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/e4wzotev5uww7h4deupf6uojkarn
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJjMWU5ODJiLTMwYmMtNGMzMi1iOTFlLTBkYmQ1MGIzMmMxZiIsInB1ciI6ImJsb2JfaWQifX0=--d96ece0f4f19f8917fb975b28544768bdcba118a/logo-decotec-e1617193885354.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/e4wzotev5uww7h4deupf6uojkarn
 

@@ -5,6 +5,6 @@ width: 299
 height: 168
 ratio: 1.7797619047619047
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZlZmRmZjAxLTIwMzgtNGFmMC1iNTk3LTk4MzU3N2JkMzBiNiIsInB1ciI6ImJsb2JfaWQifX0=--6e8c6a71e6671f90f4653ef107397cba1da9af28/Aveyron-Le-Vieux-Berger.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/6tqewe16ewzwqfkwc0yjaizgqs19
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjZlZmRmZjAxLTIwMzgtNGFmMC1iNTk3LTk4MzU3N2JkMzBiNiIsInB1ciI6ImJsb2JfaWQifX0=--e73fbd4aa06e47d8e8aa283b14f2a60d18bf9883/Aveyron-Le-Vieux-Berger.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/6tqewe16ewzwqfkwc0yjaizgqs19
 

@@ -5,6 +5,6 @@ width: 300
 height: 39
 ratio: 7.6923076923076925
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjA5MzU0MjUxLTY4ZjYtNDdhYy1iMjhiLTVhMmYzYjc3NjQ2YSIsInB1ciI6ImJsb2JfaWQifX0=--ab43e073b0b5dc35fb55d604e99d78b3bd74b78d/Groupe-ADM-Logo.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/qe43o1v8ycx3hggy7q28grv1lvmx
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjA5MzU0MjUxLTY4ZjYtNDdhYy1iMjhiLTVhMmYzYjc3NjQ2YSIsInB1ciI6ImJsb2JfaWQifX0=--11cbd63d58416ab72b4ef13de35cd0ffc3bf1f5a/Groupe-ADM-Logo.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/qe43o1v8ycx3hggy7q28grv1lvmx
 

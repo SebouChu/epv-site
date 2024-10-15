@@ -5,6 +5,6 @@ width: 400
 height: 240
 ratio: 1.6666666666666667
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImVjMzA0MDNjLThhN2YtNDM3Yi1hZTg0LWM5M2VhZjA0ZTg3YSIsInB1ciI6ImJsb2JfaWQifX0=--9cbd26d72d3c6eb1d6d811a29c8b6b00836c8508/Aveyron-Tanneries-Pechdo.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/ml3fh75w61cohuvvvrzpzx3ioqw8
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImVjMzA0MDNjLThhN2YtNDM3Yi1hZTg0LWM5M2VhZjA0ZTg3YSIsInB1ciI6ImJsb2JfaWQifX0=--c52489dbeed26d51725877e30273abacc9a88265/Aveyron-Tanneries-Pechdo.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ml3fh75w61cohuvvvrzpzx3ioqw8
 
