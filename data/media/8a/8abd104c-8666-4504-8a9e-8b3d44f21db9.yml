@@ -5,6 +5,6 @@ width: 600
 height: 338
 ratio: 1.7751479289940828
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhhYmQxMDRjLTg2NjYtNDUwNC04YTllLThiM2Q0NGYyMWRiOSIsInB1ciI6ImJsb2JfaWQifX0=--80fb5b847be712dc1ff324ee4775fde00567e3cf/PAYS-DE-LA-LOIRE.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/bgiwbjzsqmfli5hynx1cvevkpoa9
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhhYmQxMDRjLTg2NjYtNDUwNC04YTllLThiM2Q0NGYyMWRiOSIsInB1ciI6ImJsb2JfaWQifX0=--32ea563f0dd04a85e279c340534903dd3345fcb1/PAYS-DE-LA-LOIRE.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/bgiwbjzsqmfli5hynx1cvevkpoa9
 

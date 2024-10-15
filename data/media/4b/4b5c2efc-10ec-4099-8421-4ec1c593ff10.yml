@@ -5,6 +5,6 @@ width: 460
 height: 460
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjRiNWMyZWZjLTEwZWMtNDA5OS04NDIxLTRlYzFjNTkzZmYxMCIsInB1ciI6ImJsb2JfaWQifX0=--6831714ad733296c725c1de2aa5a1156fba69cb0/Ange-Alez-Martin.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/xflwr3yk9lxsmoibbimuept5fhri
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjRiNWMyZWZjLTEwZWMtNDA5OS04NDIxLTRlYzFjNTkzZmYxMCIsInB1ciI6ImJsb2JfaWQifX0=--ec7c58e502341cf515c149bfb84772b0788ca6a3/Ange-Alez-Martin.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/xflwr3yk9lxsmoibbimuept5fhri
 

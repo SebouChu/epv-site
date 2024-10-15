@@ -5,6 +5,6 @@ width: 2592
 height: 1944
 ratio: 1.3333333333333333
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjAwMDk5YjdkLTdkNmItNGI2My1iYjU2LWM0YjI0OGUzZTVmYSIsInB1ciI6ImJsb2JfaWQifX0=--976114b873b1e2e090d04a966deedfbceb249c6f/BORDEAUX_water-mirror-1224551.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/jdgb6uxe5vv2mct2bc7o3gtcvsgd
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjAwMDk5YjdkLTdkNmItNGI2My1iYjU2LWM0YjI0OGUzZTVmYSIsInB1ciI6ImJsb2JfaWQifX0=--84610e6c101bd0cd21e706d950e0e1f3a319b6c0/BORDEAUX_water-mirror-1224551.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/jdgb6uxe5vv2mct2bc7o3gtcvsgd
 

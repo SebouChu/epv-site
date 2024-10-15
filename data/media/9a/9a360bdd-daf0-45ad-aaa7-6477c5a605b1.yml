@@ -5,6 +5,6 @@ width: 204
 height: 204
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlhMzYwYmRkLWRhZjAtNDVhZC1hYWE3LTY0NzdjNWE2MDViMSIsInB1ciI6ImJsb2JfaWQifX0=--03df65bcbbb6ab640a2127e2486632954a70f28c/delordanslesmains-logo.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/o73306io7cwvr804623knsn57ea9
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlhMzYwYmRkLWRhZjAtNDVhZC1hYWE3LTY0NzdjNWE2MDViMSIsInB1ciI6ImJsb2JfaWQifX0=--d39f0fefd32d4a7ad5c3695167b4f95cc3c65dd1/delordanslesmains-logo.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/o73306io7cwvr804623knsn57ea9
 

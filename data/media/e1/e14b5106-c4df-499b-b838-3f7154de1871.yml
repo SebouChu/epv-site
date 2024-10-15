@@ -5,6 +5,6 @@ width: 293
 height: 100
 ratio: 2.93
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImUxNGI1MTA2LWM0ZGYtNDk5Yi1iODM4LTNmNzE1NGRlMTg3MSIsInB1ciI6ImJsb2JfaWQifX0=--051385365d891a8215b41f1bb4dbd261112e045f/Logo-DRAC.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/lfc97eefcck2d3nljl4t4gz4j4oj
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImUxNGI1MTA2LWM0ZGYtNDk5Yi1iODM4LTNmNzE1NGRlMTg3MSIsInB1ciI6ImJsb2JfaWQifX0=--3caee67ee70eb96c19fe08a2c0cfbc4f55191a0e/Logo-DRAC.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/lfc97eefcck2d3nljl4t4gz4j4oj
 
