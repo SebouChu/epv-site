@@ -5,6 +5,6 @@ width: 335
 height: 68
 ratio: 4.926470588235294
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjU0YTUzYzA0LTZiYmYtNGMyYS04ZTg3LWJhZWEzOTg1MzEwMyIsInB1ciI6ImJsb2JfaWQifX0=--883720aab205032f8b96c964b44aea7c1dbeca2d/chartreuse.JPG
-direct_url: https://osuny.s3.fr-par.scw.cloud/l8awfknrrjfgm9a7jzosz13ebrva
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjU0YTUzYzA0LTZiYmYtNGMyYS04ZTg3LWJhZWEzOTg1MzEwMyIsInB1ciI6ImJsb2JfaWQifX0=--0c9307ba1723b2e8bb51cf4b9e62ca1cdd091b75/chartreuse.JPG
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/l8awfknrrjfgm9a7jzosz13ebrva
 

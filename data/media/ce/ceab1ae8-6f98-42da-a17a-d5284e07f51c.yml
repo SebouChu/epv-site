@@ -5,6 +5,6 @@ width: 1916
 height: 1916
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImNlYWIxYWU4LTZmOTgtNDJkYS1hMTdhLWQ1Mjg0ZTA3ZjUxYyIsInB1ciI6ImJsb2JfaWQifX0=--2dbb330966d95fb6737f1dda8bcce0897dc77a32/Jouffre.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/80z0v2sj7xt44sg6cf9bspke9uep
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImNlYWIxYWU4LTZmOTgtNDJkYS1hMTdhLWQ1Mjg0ZTA3ZjUxYyIsInB1ciI6ImJsb2JfaWQifX0=--60b9d64fc0a706304328fb87576821619cb948f5/Jouffre.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/80z0v2sj7xt44sg6cf9bspke9uep
 

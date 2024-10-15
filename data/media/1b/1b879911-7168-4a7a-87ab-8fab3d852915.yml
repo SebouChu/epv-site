@@ -5,6 +5,6 @@ width: 188
 height: 188
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjFiODc5OTExLTcxNjgtNGE3YS04N2FiLThmYWIzZDg1MjkxNSIsInB1ciI6ImJsb2JfaWQifX0=--30a20db6c5416dd9c6af959bfa7e5dd847146f36/panyol.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/lizfnomtph5jcjjym7edoesssm9h
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjFiODc5OTExLTcxNjgtNGE3YS04N2FiLThmYWIzZDg1MjkxNSIsInB1ciI6ImJsb2JfaWQifX0=--dedf7a8de4d7752efbd19648a95f1670cd5ce1a1/panyol.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/lizfnomtph5jcjjym7edoesssm9h
 

@@ -5,6 +5,6 @@ width: 180
 height: 177
 ratio: 1.0169491525423728
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjQwZDBmZTNmLWVjODctNDk3MC05OTdlLWEyMTRhZGRlY2IzMiIsInB1ciI6ImJsb2JfaWQifX0=--50224178f6c9a91ac83c8b2c1ce699680db83668/logo-ducaroy-grange.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/j0u5ye4d2tohuo9soq07n0hs1eiz
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjQwZDBmZTNmLWVjODctNDk3MC05OTdlLWEyMTRhZGRlY2IzMiIsInB1ciI6ImJsb2JfaWQifX0=--97bde56f6cc519fe344d201e522b6cc397b6f96e/logo-ducaroy-grange.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/j0u5ye4d2tohuo9soq07n0hs1eiz
 
