@@ -5,6 +5,6 @@ width: 1007
 height: 946
 ratio: 1.0644820295983086
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImEwMmZjNDQ1LTkwMGQtNDcxZi05YTk2LWVkOWIyNzU5ODQwNyIsInB1ciI6ImJsb2JfaWQifX0=--dabbc0d77d84f671c8289b0e195f6f391d3a2933/Logo-Campus-Versailles.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/c0fl8j6mhimddeairxexkqmqd9oj
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImEwMmZjNDQ1LTkwMGQtNDcxZi05YTk2LWVkOWIyNzU5ODQwNyIsInB1ciI6ImJsb2JfaWQifX0=--3b0ba436caf9bc30871aa309e11f3ff2df7f9527/Logo-Campus-Versailles.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/c0fl8j6mhimddeairxexkqmqd9oj
 

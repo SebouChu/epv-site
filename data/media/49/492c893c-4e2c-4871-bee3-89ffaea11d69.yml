@@ -5,6 +5,6 @@ width: 3225
 height: 1761
 ratio: 1.8313458262350937
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjQ5MmM4OTNjLTRlMmMtNDg3MS1iZWUzLTg5ZmZhZWExMWQ2OSIsInB1ciI6ImJsb2JfaWQifX0=--760590d360223e2865071dcae358bf94e4c529c2/Pluie-or-Copyright-Guibert-Degras.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/rohla6ykt1pe89nd480b2mvzqdsy
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjQ5MmM4OTNjLTRlMmMtNDg3MS1iZWUzLTg5ZmZhZWExMWQ2OSIsInB1ciI6ImJsb2JfaWQifX0=--7aa25ae02dd4ecd20db03b0fd1b590649f29703c/Pluie-or-Copyright-Guibert-Degras.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/rohla6ykt1pe89nd480b2mvzqdsy
 

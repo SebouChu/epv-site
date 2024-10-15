@@ -5,6 +5,6 @@ width: 400
 height: 514
 ratio: 0.7782101167315175
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg0ZDUxNzc1LTE1YjQtNGYzOS1iNzNlLTE1MGM2ZjkzYTk2YSIsInB1ciI6ImJsb2JfaWQifX0=--cb330f6131aee48f849c9696f7d32f18d8a4b5aa/02-vitrail-louboutin.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/ykkv19ocxxe54zvrcaspoa3ahinw
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg0ZDUxNzc1LTE1YjQtNGYzOS1iNzNlLTE1MGM2ZjkzYTk2YSIsInB1ciI6ImJsb2JfaWQifX0=--ad7da05f2aad51dae78b0fe3fd13328f88b219f9/02-vitrail-louboutin.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ykkv19ocxxe54zvrcaspoa3ahinw
 

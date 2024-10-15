@@ -5,6 +5,6 @@ width: 400
 height: 400
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ0MmQ0NmZkLWFjMTItNDFiNy04YTcwLWUzYjdjYjBiNDY5NSIsInB1ciI6ImJsb2JfaWQifX0=--28123e589a660638779ea2abbcffc64b20fcfdde/Atout-France-logo.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/63zbd1waxe36im77cad116rldt59
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ0MmQ0NmZkLWFjMTItNDFiNy04YTcwLWUzYjdjYjBiNDY5NSIsInB1ciI6ImJsb2JfaWQifX0=--3169d75b2625d9fbca61a65474675904b475a8ce/Atout-France-logo.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/63zbd1waxe36im77cad116rldt59
 

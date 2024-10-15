@@ -5,6 +5,6 @@ width: 864
 height: 486
 ratio: 1.7777777777777777
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjEwNTYyZTYzLWQ1YmItNDIyOC05NjgxLTk2ODlmOGUzYWEwZCIsInB1ciI6ImJsb2JfaWQifX0=--6be4b0d5eee8fbbe76317e6a6dcfc4826a8d481f/manufacturedetapisdebourgogne_1693846525_3184537925030189891_4981338678.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/84bjfk0em6w2t7c64cqy6mo1u3rp
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjEwNTYyZTYzLWQ1YmItNDIyOC05NjgxLTk2ODlmOGUzYWEwZCIsInB1ciI6ImJsb2JfaWQifX0=--dd412e525291baaf456f76f7bb24af252eb825f5/manufacturedetapisdebourgogne_1693846525_3184537925030189891_4981338678.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/84bjfk0em6w2t7c64cqy6mo1u3rp
 

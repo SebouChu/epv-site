@@ -5,6 +5,6 @@ width: 480
 height: 640
 ratio: 0.75
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNkZGVlNWU5LWVmZTQtNDBiZC05YjIwLWU0ZTkzNWIyODAzMSIsInB1ciI6ImJsb2JfaWQifX0=--bb9ef00a390017e89ea50ca1ccbfb7fb95588a9f/cristel-2.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/bcjcf71br9dzkekr2ksdqd5d3xwx
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNkZGVlNWU5LWVmZTQtNDBiZC05YjIwLWU0ZTkzNWIyODAzMSIsInB1ciI6ImJsb2JfaWQifX0=--36be7806ef70f1930830ffbd5bff43582d44b7e8/cristel-2.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/bcjcf71br9dzkekr2ksdqd5d3xwx
 

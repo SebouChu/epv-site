@@ -5,6 +5,6 @@ width: 902
 height: 349
 ratio: 2.5845272206303727
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBmYTg2NmU0LTVmMDAtNDA4Yy04NDljLWY5MTg2Y2Y2MmJiZCIsInB1ciI6ImJsb2JfaWQifX0=--3e42863f436eb08a8fbc0845873405dea92c95d6/CCEF-Logo.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/9ezk6wlq3a1z27efaizn0az0bwpp
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBmYTg2NmU0LTVmMDAtNDA4Yy04NDljLWY5MTg2Y2Y2MmJiZCIsInB1ciI6ImJsb2JfaWQifX0=--984add74f1f2c5241cf804caa942f6ba33d2c56d/CCEF-Logo.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/9ezk6wlq3a1z27efaizn0az0bwpp
 

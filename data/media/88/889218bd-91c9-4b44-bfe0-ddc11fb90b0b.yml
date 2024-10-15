@@ -5,6 +5,6 @@ width: 5616
 height: 3744
 ratio: 1.5
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg4OTIxOGJkLTkxYzktNGI0NC1iZmUwLWRkYzExZmI5MGIwYiIsInB1ciI6ImJsb2JfaWQifX0=--929e579361069a7b92fa0d06c0cd872b72beecbf/HAUTS-DE-FRANCE_zhu-yunxiao-r_Py2nb-QNo-unsplash.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/9m4vo6a440peenymwd0wr6l2z8wy
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg4OTIxOGJkLTkxYzktNGI0NC1iZmUwLWRkYzExZmI5MGIwYiIsInB1ciI6ImJsb2JfaWQifX0=--f23e671bb8cc568c31da0a37e087c8359bc3b728/HAUTS-DE-FRANCE_zhu-yunxiao-r_Py2nb-QNo-unsplash.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/9m4vo6a440peenymwd0wr6l2z8wy
 
