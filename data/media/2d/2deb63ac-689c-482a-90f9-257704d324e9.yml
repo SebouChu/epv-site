@@ -5,6 +5,6 @@ width: 2480
 height: 2709
 ratio: 0.9154669619785899
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJkZWI2M2FjLTY4OWMtNDgyYS05MGY5LTI1NzcwNGQzMjRlOSIsInB1ciI6ImJsb2JfaWQifX0=--35548f09a7d29409daf2cec40cbc03f90ac44590/Parasol-socotex-Carre-d-ombre-parasol-toile-orchestra-11-copie.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/wq6mjoew09xtyr4h8dg4bk6astrn
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJkZWI2M2FjLTY4OWMtNDgyYS05MGY5LTI1NzcwNGQzMjRlOSIsInB1ciI6ImJsb2JfaWQifX0=--a9e160fb0d49126043e3477a0fd5a36140db1829/Parasol-socotex-Carre-d-ombre-parasol-toile-orchestra-11-copie.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/wq6mjoew09xtyr4h8dg4bk6astrn
 

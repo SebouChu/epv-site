@@ -5,6 +5,6 @@ width: 1654
 height: 1240
 ratio: 1.3338709677419356
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg0NTdmMjBmLTJiNmUtNGI4ZC04Y2U5LTNiMmZhMjIwNGYxZCIsInB1ciI6ImJsb2JfaWQifX0=--75758a1ed711486dc52201eb0bbc62f81226db8a/ID3-velum_Pergola-socotex.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/mil82f130pirgq3t4hdxnt4d6ase
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg0NTdmMjBmLTJiNmUtNGI4ZC04Y2U5LTNiMmZhMjIwNGYxZCIsInB1ciI6ImJsb2JfaWQifX0=--3b8536fad25d45753e48c6e72c80b9da4e0ac5d3/ID3-velum_Pergola-socotex.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/mil82f130pirgq3t4hdxnt4d6ase
 

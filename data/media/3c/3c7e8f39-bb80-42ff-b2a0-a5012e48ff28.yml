@@ -5,6 +5,6 @@ width: 355
 height: 142
 ratio: 2.5
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNjN2U4ZjM5LWJiODAtNDJmZi1iMmEwLWE1MDEyZTQ4ZmYyOCIsInB1ciI6ImJsb2JfaWQifX0=--7475c7c84f14e2b9bac020389fdeecfd47f2bf63/Lozere-Atelier-tuffery.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/xtqwhdgr9cuc4912ffddn751r9av
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNjN2U4ZjM5LWJiODAtNDJmZi1iMmEwLWE1MDEyZTQ4ZmYyOCIsInB1ciI6ImJsb2JfaWQifX0=--4aac75fd2eb5ad115d7a8705da4c9c890ee8ef80/Lozere-Atelier-tuffery.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/xtqwhdgr9cuc4912ffddn751r9av
 

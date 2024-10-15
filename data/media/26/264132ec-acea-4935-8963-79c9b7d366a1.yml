@@ -5,6 +5,6 @@ width: 827
 height: 854
 ratio: 0.968384074941452
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjI2NDEzMmVjLWFjZWEtNDkzNS04OTYzLTc5YzliN2QzNjZhMSIsInB1ciI6ImJsb2JfaWQifX0=--324275335abae9bea1b079d6f6fa354453eb3376/vans-theault.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/j320m05lyigyfhu5zz6d58s7iiw0
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjI2NDEzMmVjLWFjZWEtNDkzNS04OTYzLTc5YzliN2QzNjZhMSIsInB1ciI6ImJsb2JfaWQifX0=--06b4a33d3f89c4a72616632d949d69751b89358a/vans-theault.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/j320m05lyigyfhu5zz6d58s7iiw0
 

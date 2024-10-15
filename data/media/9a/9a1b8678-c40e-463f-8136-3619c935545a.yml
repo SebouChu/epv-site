@@ -5,6 +5,6 @@ width: 1654
 height: 1240
 ratio: 1.3338709677419356
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlhMWI4Njc4LWM0MGUtNDYzZi04MTM2LTM2MTljOTM1NTQ1YSIsInB1ciI6ImJsb2JfaWQifX0=--e8c96f41e482d113e84b9f335f85595256189ed2/Store-banne-socotex.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/c3n9tncoov3d0oovq6axq7o32jfr
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlhMWI4Njc4LWM0MGUtNDYzZi04MTM2LTM2MTljOTM1NTQ1YSIsInB1ciI6ImJsb2JfaWQifX0=--111cc4b4f1f9c3ee3778bb85b9ee357bd187ff4e/Store-banne-socotex.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/c3n9tncoov3d0oovq6axq7o32jfr
 

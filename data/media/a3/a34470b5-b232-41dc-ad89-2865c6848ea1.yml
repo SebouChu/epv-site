@@ -5,6 +5,6 @@ width: 474
 height: 273
 ratio: 1.7362637362637363
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImEzNDQ3MGI1LWIyMzItNDFkYy1hZDg5LTI4NjVjNjg0OGVhMSIsInB1ciI6ImJsb2JfaWQifX0=--78aa5295be4e9e3bbc4dfc2428a3bbe4fe59b29c/waltersperger.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/ubwtrd31q5qzckebaa8zybpojup0
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImEzNDQ3MGI1LWIyMzItNDFkYy1hZDg5LTI4NjVjNjg0OGVhMSIsInB1ciI6ImJsb2JfaWQifX0=--4ff7b4fb28093430529d4f53685f52202263e61c/waltersperger.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ubwtrd31q5qzckebaa8zybpojup0
 

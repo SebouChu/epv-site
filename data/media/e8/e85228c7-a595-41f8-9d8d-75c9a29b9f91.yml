@@ -5,6 +5,6 @@ width: 161
 height: 112
 ratio: 1.4375
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImU4NTIyOGM3LWE1OTUtNDFmOC05ZDhkLTc1YzlhMjliOWY5MSIsInB1ciI6ImJsb2JfaWQifX0=--40fee0654d0db284e56ddcfbfa3bdf3e96074ba7/Smith-Haut-Lafitte.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/xr598r4so8yfoz534ri2uycno1e6
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImU4NTIyOGM3LWE1OTUtNDFmOC05ZDhkLTc1YzlhMjliOWY5MSIsInB1ciI6ImJsb2JfaWQifX0=--ea1fb18efe888b458522618b6bb9ba2cf442e153/Smith-Haut-Lafitte.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/xr598r4so8yfoz534ri2uycno1e6
 

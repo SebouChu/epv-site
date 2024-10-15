@@ -5,6 +5,6 @@ width: 223
 height: 279
 ratio: 0.7992831541218638
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImVlMzIwZjQ4LTM0OWMtNDViYS1iZDdhLWY4MzRjMTdlZTZmOSIsInB1ciI6ImJsb2JfaWQifX0=--d6ad7ee9fbc9738b941bb78d409e607c0a749802/logo-BROSSERIE-BRENET.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/tkk0t0m93ghaqo4ney2vc90btbpg
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImVlMzIwZjQ4LTM0OWMtNDViYS1iZDdhLWY4MzRjMTdlZTZmOSIsInB1ciI6ImJsb2JfaWQifX0=--d1f063c77a39f50f2cd127458a312a45fc868795/logo-BROSSERIE-BRENET.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/tkk0t0m93ghaqo4ney2vc90btbpg
 

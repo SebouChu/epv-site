@@ -5,6 +5,6 @@ width: 180
 height: 97
 ratio: 1.8556701030927836
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNkZTk3ZDIxLWFjY2EtNDVjMC1iZTU3LTYyYjMzM2ZmNGU2NCIsInB1ciI6ImJsb2JfaWQifX0=--78172dc00f83bbc8e44b0babf9c0e5cd9f078cf0/Saint-james.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/17kd05cfnmkxm987u1dqea5j5jt2
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNkZTk3ZDIxLWFjY2EtNDVjMC1iZTU3LTYyYjMzM2ZmNGU2NCIsInB1ciI6ImJsb2JfaWQifX0=--88b89481d4c2f44467a7847a60657e641b0b299b/Saint-james.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/17kd05cfnmkxm987u1dqea5j5jt2
 

@@ -5,6 +5,6 @@ width: 470
 height: 135
 ratio: 3.4814814814814814
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjE3NjM0YTYyLWNhY2ItNDcyZC05ZTY5LWQ5MDNmNzkzYmMxYyIsInB1ciI6ImJsb2JfaWQifX0=--947a479c1151964a9c24add1fc5322e235c7b2fa/Sarl-chantier-naval.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/txngn1u57tahmtg1dk9va3djck2g
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjE3NjM0YTYyLWNhY2ItNDcyZC05ZTY5LWQ5MDNmNzkzYmMxYyIsInB1ciI6ImJsb2JfaWQifX0=--a7995a627c6cd2cd349112d893018b0fba690255/Sarl-chantier-naval.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/txngn1u57tahmtg1dk9va3djck2g
 

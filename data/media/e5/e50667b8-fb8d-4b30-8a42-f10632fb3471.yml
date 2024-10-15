@@ -5,6 +5,6 @@ width: 643
 height: 312
 ratio: 2.0608974358974357
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImU1MDY2N2I4LWZiOGQtNGIzMC04YTQyLWYxMDYzMmZiMzQ3MSIsInB1ciI6ImJsb2JfaWQifX0=--4358d814de4da5153565b13158894081caea4aa8/Logo-atelier-quillet.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/nzeksv40rki802xxpmxg5yuw0i3u
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImU1MDY2N2I4LWZiOGQtNGIzMC04YTQyLWYxMDYzMmZiMzQ3MSIsInB1ciI6ImJsb2JfaWQifX0=--c028e72b2925007a6ad545fa53ee93e255bc52e1/Logo-atelier-quillet.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/nzeksv40rki802xxpmxg5yuw0i3u
 

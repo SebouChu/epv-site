@@ -5,6 +5,6 @@ width: 424
 height: 135
 ratio: 3.140740740740741
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjQ4MTA1Yjk2LTEwNjAtNDlmZS1hYjQyLWZhZWNlZjQ4Yzg5ZiIsInB1ciI6ImJsb2JfaWQifX0=--ea1c3787d3c1534b21dbbcce3f0549e7e885243a/logo-labasse.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/djvvm7he2bq14gb9pxzixetkhofk
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjQ4MTA1Yjk2LTEwNjAtNDlmZS1hYjQyLWZhZWNlZjQ4Yzg5ZiIsInB1ciI6ImJsb2JfaWQifX0=--0d1dc616e3bc0347680e23494f5b3acc94e2012e/logo-labasse.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/djvvm7he2bq14gb9pxzixetkhofk
 

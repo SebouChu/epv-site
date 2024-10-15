@@ -5,6 +5,6 @@ width: 200
 height: 200
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijk5YmY3OTY5LTVkOWMtNDQ5Yy05ODdkLWRjZTBjNWNjNDhjYiIsInB1ciI6ImJsb2JfaWQifX0=--3b9889397cd4927317750c262859b7925d75bad4/LOGO-FAROL.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/tuyy1fiygvqfp7lrdp50hi7my8ku
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijk5YmY3OTY5LTVkOWMtNDQ5Yy05ODdkLWRjZTBjNWNjNDhjYiIsInB1ciI6ImJsb2JfaWQifX0=--226f40507774c7d0e89a59724542f08d8cb199da/LOGO-FAROL.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/tuyy1fiygvqfp7lrdp50hi7my8ku
 
