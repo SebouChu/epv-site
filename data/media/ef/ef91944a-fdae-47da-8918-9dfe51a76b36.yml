@@ -5,6 +5,6 @@ width: 474
 height: 474
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImVmOTE5NDRhLWZkYWUtNDdkYS04OTE4LTlkZmU1MWE3NmIzNiIsInB1ciI6ImJsb2JfaWQifX0=--e3660792fd3940e6584ac061a5eb7ff7601c9ab6/dehondt-tech.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/cy97x3v1bhvbjl06q507c9d3b9e9
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImVmOTE5NDRhLWZkYWUtNDdkYS04OTE4LTlkZmU1MWE3NmIzNiIsInB1ciI6ImJsb2JfaWQifX0=--a8514d439d0f6cab16229f740992a36ab7553869/dehondt-tech.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/cy97x3v1bhvbjl06q507c9d3b9e9
 

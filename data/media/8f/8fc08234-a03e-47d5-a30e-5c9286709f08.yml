@@ -5,6 +5,6 @@ width: 324
 height: 324
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhmYzA4MjM0LWEwM2UtNDdkNS1hMzBlLTVjOTI4NjcwOWYwOCIsInB1ciI6ImJsb2JfaWQifX0=--5a093bac8365e858f0ddda01ad78194603826f7b/H2O-parapluies-logo.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/8pqrtybxtv5zydg78loqtqg373d0
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhmYzA4MjM0LWEwM2UtNDdkNS1hMzBlLTVjOTI4NjcwOWYwOCIsInB1ciI6ImJsb2JfaWQifX0=--5c41520f2b644ae39d8ce495da118d587ce0ce7c/H2O-parapluies-logo.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/8pqrtybxtv5zydg78loqtqg373d0
 

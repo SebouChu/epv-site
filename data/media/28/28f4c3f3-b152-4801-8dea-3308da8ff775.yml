@@ -5,6 +5,6 @@ width: 1170
 height: 600
 ratio: 1.95
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjI4ZjRjM2YzLWIxNTItNDgwMS04ZGVhLTMzMDhkYThmZjc3NSIsInB1ciI6ImJsb2JfaWQifX0=--504a9c9a76984dc21cb385f1c723bfa37b05d4cf/art-deco.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/8r7tjdr3vh1lgzjgsz1n4r4u412y
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjI4ZjRjM2YzLWIxNTItNDgwMS04ZGVhLTMzMDhkYThmZjc3NSIsInB1ciI6ImJsb2JfaWQifX0=--03745fd849b90b8a1356e26f5bd198b18bb6fa8e/art-deco.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/8r7tjdr3vh1lgzjgsz1n4r4u412y
 

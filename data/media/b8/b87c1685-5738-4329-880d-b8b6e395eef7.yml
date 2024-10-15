@@ -5,6 +5,6 @@ width: 200
 height: 200
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImI4N2MxNjg1LTU3MzgtNDMyOS04ODBkLWI4YjZlMzk1ZWVmNyIsInB1ciI6ImJsb2JfaWQifX0=--b269ae3a0e0a0d4c682b327fd2389b4d06271aa4/Entrepise-A-desperrois.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/a55rqi7nff1uflr70izdy84wk5wh
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImI4N2MxNjg1LTU3MzgtNDMyOS04ODBkLWI4YjZlMzk1ZWVmNyIsInB1ciI6ImJsb2JfaWQifX0=--e7daf1498dfe992b5807a68b0735052b2ca0fc1b/Entrepise-A-desperrois.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/a55rqi7nff1uflr70izdy84wk5wh
 

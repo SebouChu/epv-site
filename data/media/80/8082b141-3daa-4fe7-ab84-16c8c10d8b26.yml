@@ -5,6 +5,6 @@ width: 321
 height: 454
 ratio: 0.7070484581497798
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjgwODJiMTQxLTNkYWEtNGZlNy1hYjg0LTE2YzhjMTBkOGIyNiIsInB1ciI6ImJsb2JfaWQifX0=--892f5e439accf7ce607daaf8240f368ec6993dd7/ferronerie-picard.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/26lljw5qmjv85bg42pr07r9zbdxt
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjgwODJiMTQxLTNkYWEtNGZlNy1hYjg0LTE2YzhjMTBkOGIyNiIsInB1ciI6ImJsb2JfaWQifX0=--ce1615f3e0d6b297ce78d59d6555efadc6c96150/ferronerie-picard.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/26lljw5qmjv85bg42pr07r9zbdxt
 

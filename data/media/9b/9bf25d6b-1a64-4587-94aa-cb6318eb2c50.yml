@@ -5,6 +5,6 @@ width: 112
 height: 57
 ratio: 1.9649122807017543
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjliZjI1ZDZiLTFhNjQtNDU4Ny05NGFhLWNiNjMxOGViMmM1MCIsInB1ciI6ImJsb2JfaWQifX0=--820214360cd538f330c56416689e111abadc01a4/Fonderie-art-bocquel.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/2rx8lcmykqv7c11zjamyjlagkh09
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjliZjI1ZDZiLTFhNjQtNDU4Ny05NGFhLWNiNjMxOGViMmM1MCIsInB1ciI6ImJsb2JfaWQifX0=--83065aedc977962b14fdc252fde6ee09b25da2aa/Fonderie-art-bocquel.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/2rx8lcmykqv7c11zjamyjlagkh09
 

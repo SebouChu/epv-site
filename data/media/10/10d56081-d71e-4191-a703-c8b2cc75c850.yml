@@ -5,6 +5,6 @@ width: 2395
 height: 2395
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjEwZDU2MDgxLWQ3MWUtNDE5MS1hNzAzLWM4YjJjYzc1Yzg1MCIsInB1ciI6ImJsb2JfaWQifX0=--5e4e85cb56c76220f3790a0021fe05e9321f7a69/Simon-FRILEUX-017-100124.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/mxvbh5s2u8tl0ba9tymvrq4kq9mg
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjEwZDU2MDgxLWQ3MWUtNDE5MS1hNzAzLWM4YjJjYzc1Yzg1MCIsInB1ciI6ImJsb2JfaWQifX0=--2f9e77c790b565f6c958bd9a35766e0474e8b25d/Simon-FRILEUX-017-100124.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/mxvbh5s2u8tl0ba9tymvrq4kq9mg
 

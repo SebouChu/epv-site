@@ -5,6 +5,6 @@ width: 2395
 height: 2395
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNjMjNmMjhjLTZiMzktNGYzOC04ZjQzLWQyZjIwNGVmOGVkOSIsInB1ciI6ImJsb2JfaWQifX0=--371c681f0d4b878edb73ed1ef4e02e4771c21920/Catherine-COUSIN-003-100124.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/gmnotf1pytr4c256mlaa85zsizt0
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjNjMjNmMjhjLTZiMzktNGYzOC04ZjQzLWQyZjIwNGVmOGVkOSIsInB1ciI6ImJsb2JfaWQifX0=--23eee8d07cf3d730bd2f045fdb822036b6a43da7/Catherine-COUSIN-003-100124.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/gmnotf1pytr4c256mlaa85zsizt0
 

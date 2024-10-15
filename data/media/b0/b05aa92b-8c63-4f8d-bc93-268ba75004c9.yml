@@ -5,6 +5,6 @@ width: 474
 height: 219
 ratio: 2.164383561643836
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImIwNWFhOTJiLThjNjMtNGY4ZC1iYzkzLTI2OGJhNzUwMDRjOSIsInB1ciI6ImJsb2JfaWQifX0=--ea5fca7d22a03695cb06e6b5f3a4b8a911338f46/ferme-des-peupliers.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/ens69ddtkpw2gffbd6mvwkf6g086
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImIwNWFhOTJiLThjNjMtNGY4ZC1iYzkzLTI2OGJhNzUwMDRjOSIsInB1ciI6ImJsb2JfaWQifX0=--7a06ffedd36bcacd08a61bc708269f5e10cd1da2/ferme-des-peupliers.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ens69ddtkpw2gffbd6mvwkf6g086
 

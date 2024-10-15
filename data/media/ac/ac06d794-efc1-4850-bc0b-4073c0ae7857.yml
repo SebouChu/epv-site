@@ -5,6 +5,6 @@ width: 285
 height: 77
 ratio: 3.7012987012987013
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImFjMDZkNzk0LWVmYzEtNDg1MC1iYzBiLTQwNzNjMGFlNzg1NyIsInB1ciI6ImJsb2JfaWQifX0=--083374e0ac06e4fc98cb984fe6b58a8f6a5e0228/Inedit-joaillier.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/bem1x4rwkgzupobth7edm02b65he
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImFjMDZkNzk0LWVmYzEtNDg1MC1iYzBiLTQwNzNjMGFlNzg1NyIsInB1ciI6ImJsb2JfaWQifX0=--985c13a9e8c7779a36a970639c55bf6457c78697/Inedit-joaillier.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/bem1x4rwkgzupobth7edm02b65he
 

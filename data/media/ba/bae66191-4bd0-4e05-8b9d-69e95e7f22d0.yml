@@ -5,6 +5,6 @@ width: 112
 height: 178
 ratio: 0.6292134831460674
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJhZTY2MTkxLTRiZDAtNGUwNS04YjlkLTY5ZTk1ZTdmMjJkMCIsInB1ciI6ImJsb2JfaWQifX0=--f79e7747c786f2f719fea86751c2a959c47120cd/logo-cornille.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/9677g9ozocod3ibelsgnd2uzrk8n
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJhZTY2MTkxLTRiZDAtNGUwNS04YjlkLTY5ZTk1ZTdmMjJkMCIsInB1ciI6ImJsb2JfaWQifX0=--aecb55ea43de8c3b659ae09ceb507ad733920966/logo-cornille.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/9677g9ozocod3ibelsgnd2uzrk8n
 

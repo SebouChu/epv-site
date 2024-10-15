@@ -5,6 +5,6 @@ width: 600
 height: 600
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBkNDliYjVmLTIxMzQtNGY5MS1hYWQxLTJiYzJiMWM2YzhiNSIsInB1ciI6ImJsb2JfaWQifX0=--dfc3359709de50763eed8933942cc0b069857445/Domaine-du-coquerel.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/mprhsib31cn5m562aj81jdrn2oms
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBkNDliYjVmLTIxMzQtNGY5MS1hYWQxLTJiYzJiMWM2YzhiNSIsInB1ciI6ImJsb2JfaWQifX0=--c7bd7b04e86c3f8b7828193d0e0503b7a3b09e6e/Domaine-du-coquerel.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/mprhsib31cn5m562aj81jdrn2oms
 
