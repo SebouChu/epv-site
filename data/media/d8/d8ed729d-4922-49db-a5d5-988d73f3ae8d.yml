@@ -5,6 +5,6 @@ width: 360
 height: 140
 ratio: 2.5714285714285716
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ4ZWQ3MjlkLTQ5MjItNDlkYi1hNWQ1LTk4OGQ3M2YzYWU4ZCIsInB1ciI6ImJsb2JfaWQifX0=--3dacb9afbe227c1ceb9a53b45cf2f914f0d45a1c/maison-gatti-logo.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/due2s184ka0wee916136op3k9672
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQ4ZWQ3MjlkLTQ5MjItNDlkYi1hNWQ1LTk4OGQ3M2YzYWU4ZCIsInB1ciI6ImJsb2JfaWQifX0=--c45595e20e03e79a091a50f64656368974dc120c/maison-gatti-logo.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/due2s184ka0wee916136op3k9672
 

@@ -5,6 +5,6 @@ width: 200
 height: 153
 ratio: 1.3071895424836601
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJiODk5OTFmLTZiMGUtNGFjYS1hOGViLTJiNmU5MTcxYzVlZSIsInB1ciI6ImJsb2JfaWQifX0=--60df3824dcc457e41b6c2326ab76444258fdbd2e/Logo-ABP-BBR.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/fq16afolbn0g2qtcolpavkmr6elf
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjJiODk5OTFmLTZiMGUtNGFjYS1hOGViLTJiNmU5MTcxYzVlZSIsInB1ciI6ImJsb2JfaWQifX0=--e75853fd60ae6b97dc6f96af64ffd7e3fa6a60f3/Logo-ABP-BBR.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/fq16afolbn0g2qtcolpavkmr6elf
 

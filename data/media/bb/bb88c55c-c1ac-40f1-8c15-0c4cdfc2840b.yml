@@ -5,6 +5,6 @@ width: 960
 height: 960
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJiODhjNTVjLWMxYWMtNDBmMS04YzE1LTBjNGNkZmMyODQwYiIsInB1ciI6ImJsb2JfaWQifX0=--5af8970025fbbcaea6ba5bf1b4f014082b1e4fe5/logo-or-decor.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/8nv6zi58lgwkrfhurv4miifu55q0
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJiODhjNTVjLWMxYWMtNDBmMS04YzE1LTBjNGNkZmMyODQwYiIsInB1ciI6ImJsb2JfaWQifX0=--fb7835debf7442dc432355c22afda28a7d9db21a/logo-or-decor.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/8nv6zi58lgwkrfhurv4miifu55q0
 

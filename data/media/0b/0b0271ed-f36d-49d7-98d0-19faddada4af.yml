@@ -5,6 +5,6 @@ width: 1341
 height: 1210
 ratio: 1.1082644628099174
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBiMDI3MWVkLWYzNmQtNDlkNy05OGQwLTE5ZmFkZGFkYTRhZiIsInB1ciI6ImJsb2JfaWQifX0=--2f579aefac10031a6fae59092a8e63228753daef/FEY_NOUVEAULOGO-1.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/aeqrlzirfg26i2bjnjgm697ne095
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBiMDI3MWVkLWYzNmQtNDlkNy05OGQwLTE5ZmFkZGFkYTRhZiIsInB1ciI6ImJsb2JfaWQifX0=--6688e54313267679f80d9ab35fcbdbd718bd4e9b/FEY_NOUVEAULOGO-1.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/aeqrlzirfg26i2bjnjgm697ne095
 

@@ -5,6 +5,6 @@ width: 160
 height: 160
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdkMjg5MGYwLWE3MGQtNGVhZi04OGQ5LTE4Y2Y2ZWUxNmVmZiIsInB1ciI6ImJsb2JfaWQifX0=--15114ab3a430cc134abd37877a3db2895c1f1d87/Digital-packaging-logo.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/qy0e119asrubrsbo1al71ih1ne92
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdkMjg5MGYwLWE3MGQtNGVhZi04OGQ5LTE4Y2Y2ZWUxNmVmZiIsInB1ciI6ImJsb2JfaWQifX0=--98f2ecd956f09859fdf3b4b2f54e3e70aec75685/Digital-packaging-logo.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/qy0e119asrubrsbo1al71ih1ne92
 

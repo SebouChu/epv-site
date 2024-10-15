@@ -5,6 +5,6 @@ width: 400
 height: 400
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImMwZTU0OGFjLWQwY2UtNDVjYy1hMGMwLWFkN2UwZGU4ZjY1MSIsInB1ciI6ImJsb2JfaWQifX0=--a32397b2c5f3fd480eaaf93c60563aaa72da5c4c/Atelier-Fey.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/jo3akor1x6o2ipdbnr451y10bhck
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImMwZTU0OGFjLWQwY2UtNDVjYy1hMGMwLWFkN2UwZGU4ZjY1MSIsInB1ciI6ImJsb2JfaWQifX0=--ba7e1db4e182ddfa326420a521e87600f8ade179/Atelier-Fey.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/jo3akor1x6o2ipdbnr451y10bhck
 

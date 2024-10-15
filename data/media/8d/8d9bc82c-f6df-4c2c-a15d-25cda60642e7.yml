@@ -5,6 +5,6 @@ width: 226
 height: 224
 ratio: 1.0089285714285714
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhkOWJjODJjLWY2ZGYtNGMyYy1hMTVkLTI1Y2RhNjA2NDJlNyIsInB1ciI6ImJsb2JfaWQifX0=--b854d6627ac94006502a3dbf9ae623d5c1f94b93/logo-bernard-pictet.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/2x87xdzitbq5pend6m6ban97ynrd
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhkOWJjODJjLWY2ZGYtNGMyYy1hMTVkLTI1Y2RhNjA2NDJlNyIsInB1ciI6ImJsb2JfaWQifX0=--7c61e9836d33e73fd267b34c48f6561af846e54e/logo-bernard-pictet.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/2x87xdzitbq5pend6m6ban97ynrd
 

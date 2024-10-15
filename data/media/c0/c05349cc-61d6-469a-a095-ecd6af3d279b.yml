@@ -5,6 +5,6 @@ width: 225
 height: 225
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImMwNTM0OWNjLTYxZDYtNDY5YS1hMDk1LWVjZDZhZjNkMjc5YiIsInB1ciI6ImJsb2JfaWQifX0=--e1fb6adb5ad5273e0c939653756da2c6505ef2c7/papier-armenie-logo.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/3vihfxxr2o0kljykx6u84nkybxvu
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImMwNTM0OWNjLTYxZDYtNDY5YS1hMDk1LWVjZDZhZjNkMjc5YiIsInB1ciI6ImJsb2JfaWQifX0=--e59ed278f81877e5ba15430efe7d48e150c5e8b7/papier-armenie-logo.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/3vihfxxr2o0kljykx6u84nkybxvu
 

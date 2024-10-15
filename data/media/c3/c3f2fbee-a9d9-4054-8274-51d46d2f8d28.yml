@@ -5,6 +5,6 @@ width: 300
 height: 102
 ratio: 2.9411764705882355
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImMzZjJmYmVlLWE5ZDktNDA1NC04Mjc0LTUxZDQ2ZDJmOGQyOCIsInB1ciI6ImJsb2JfaWQifX0=--f0abe775bd8d9d206ecea9465a93e3be821de47d/Logo-promethee-fin-300x102.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/ukpzmv5cmb7k73gbb7l8a741fpsz
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImMzZjJmYmVlLWE5ZDktNDA1NC04Mjc0LTUxZDQ2ZDJmOGQyOCIsInB1ciI6ImJsb2JfaWQifX0=--c1c46cef98c90cffd85507ca6f17296567d07ebf/Logo-promethee-fin-300x102.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ukpzmv5cmb7k73gbb7l8a741fpsz
 

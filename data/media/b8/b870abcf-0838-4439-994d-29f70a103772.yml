@@ -5,6 +5,6 @@ width: 200
 height: 200
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImI4NzBhYmNmLTA4MzgtNDQzOS05OTRkLTI5ZjcwYTEwMzc3MiIsInB1ciI6ImJsb2JfaWQifX0=--15105f030c7d7f0b8e74a45c528a8a20ad0fe09c/Gauthier-cie-logo.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/r9egn9rrfqe46cmuilvzf214q1j7
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImI4NzBhYmNmLTA4MzgtNDQzOS05OTRkLTI5ZjcwYTEwMzc3MiIsInB1ciI6ImJsb2JfaWQifX0=--4f6cea8f19642941371fef55e54c440e3042b48c/Gauthier-cie-logo.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/r9egn9rrfqe46cmuilvzf214q1j7
 

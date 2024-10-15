@@ -5,6 +5,6 @@ width: 225
 height: 225
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdmZTFjNzQ2LTBjZmEtNDEyNC05ZWRlLTgwODE5NDllNmU5MiIsInB1ciI6ImJsb2JfaWQifX0=--e0fcf8ba0849b003f873ab369b638ec67b1b7e5f/John-Lobb-logo.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/5uv4uapjb7p8arf9tokjmr41zik9
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdmZTFjNzQ2LTBjZmEtNDEyNC05ZWRlLTgwODE5NDllNmU5MiIsInB1ciI6ImJsb2JfaWQifX0=--5d87e43bffbceea21bdb1c845ad424fbac175f48/John-Lobb-logo.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/5uv4uapjb7p8arf9tokjmr41zik9
 

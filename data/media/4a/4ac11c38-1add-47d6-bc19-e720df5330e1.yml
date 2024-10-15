@@ -5,6 +5,6 @@ width: 135
 height: 150
 ratio: 0.9
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjRhYzExYzM4LTFhZGQtNDdkNi1iYzE5LWU3MjBkZjUzMzBlMSIsInB1ciI6ImJsb2JfaWQifX0=--a4f59a1b99aa5b13933420fa68c04cea993e2cbf/logo-fonderie-sylvain-compagnon.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/jb7sikgiuubzlw6b162uy8exjbav
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjRhYzExYzM4LTFhZGQtNDdkNi1iYzE5LWU3MjBkZjUzMzBlMSIsInB1ciI6ImJsb2JfaWQifX0=--24788cecb202448831ba80582d6432309060620b/logo-fonderie-sylvain-compagnon.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/jb7sikgiuubzlw6b162uy8exjbav
 
