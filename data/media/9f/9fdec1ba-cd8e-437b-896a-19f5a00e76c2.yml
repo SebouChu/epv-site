@@ -5,6 +5,6 @@ width: 335
 height: 277
 ratio: 1.2093862815884477
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlmZGVjMWJhLWNkOGUtNDM3Yi04OTZhLTE5ZjVhMDBlNzZjMiIsInB1ciI6ImJsb2JfaWQifX0=--bb76636b60eda2eb594150f88481c95a5bb149ae/la-malle-bernard.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/9lb39rbfrearap7c2f2z71r3w4sa
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjlmZGVjMWJhLWNkOGUtNDM3Yi04OTZhLTE5ZjVhMDBlNzZjMiIsInB1ciI6ImJsb2JfaWQifX0=--88b8ccc8e20ff1cfb8b94b7769a9eaf7296c2f45/la-malle-bernard.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/9lb39rbfrearap7c2f2z71r3w4sa
 

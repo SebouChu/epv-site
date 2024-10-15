@@ -5,6 +5,6 @@ width: 1440
 height: 1088
 ratio: 1.3235294117647058
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhhZTVhNGJjLWU0MDYtNGRjZS05ZjlkLWU5OWYxNDhlY2RkMyIsInB1ciI6ImJsb2JfaWQifX0=--0d831128e53a4668a96ebf5cf58906bc755a513e/arsen-lehodey-vani-bois-meuble-en-osier.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/t7v591gq7o3fhpn6cg5r06hcisve
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjhhZTVhNGJjLWU0MDYtNGRjZS05ZjlkLWU5OWYxNDhlY2RkMyIsInB1ciI6ImJsb2JfaWQifX0=--defb092c5ed6c9aa8e188bf506993b1f9833c9d5/arsen-lehodey-vani-bois-meuble-en-osier.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/t7v591gq7o3fhpn6cg5r06hcisve
 

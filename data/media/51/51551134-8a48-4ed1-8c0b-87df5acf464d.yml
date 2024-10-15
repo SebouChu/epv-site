@@ -5,6 +5,6 @@ width: 474
 height: 543
 ratio: 0.8729281767955801
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUxNTUxMTM0LThhNDgtNGVkMS04YzBiLTg3ZGY1YWNmNDY0ZCIsInB1ciI6ImJsb2JfaWQifX0=--c38611ea9e5d8ed66b5767cc81e3e03d015e8042/laudescher.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/2d9dz4lgla71fr2hs420ns4z2sft
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUxNTUxMTM0LThhNDgtNGVkMS04YzBiLTg3ZGY1YWNmNDY0ZCIsInB1ciI6ImJsb2JfaWQifX0=--aea59c15a254471285fd4fb8ae623eb9774f1206/laudescher.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/2d9dz4lgla71fr2hs420ns4z2sft
 

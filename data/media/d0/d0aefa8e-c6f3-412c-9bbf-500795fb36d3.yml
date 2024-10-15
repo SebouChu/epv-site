@@ -5,6 +5,6 @@ width: 250
 height: 250
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQwYWVmYThlLWM2ZjMtNDEyYy05YmJmLTUwMDc5NWZiMzZkMyIsInB1ciI6ImJsb2JfaWQifX0=--0243b806bad50df3f42f9ff085d1f3aba94768f4/la-maison-dupuis.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/76vwkts29gvcamnpv9otykqw0gko
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImQwYWVmYThlLWM2ZjMtNDEyYy05YmJmLTUwMDc5NWZiMzZkMyIsInB1ciI6ImJsb2JfaWQifX0=--fb29393c81aafbeee04b91f117ed2b60617e2d5e/la-maison-dupuis.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/76vwkts29gvcamnpv9otykqw0gko
 

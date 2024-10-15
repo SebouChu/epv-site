@@ -5,6 +5,6 @@ width: 453
 height: 205
 ratio: 2.209756097560976
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjA1ODM0NzlkLTIxYWItNDdmOC1iNzIyLTllNTFiYjYwZjVmYyIsInB1ciI6ImJsb2JfaWQifX0=--8871254e9ddc05a419bf9d03872d0eda4b2b431f/marigaux.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/xzed08nv8y759zdofbg78mpjsqjy
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjA1ODM0NzlkLTIxYWItNDdmOC1iNzIyLTllNTFiYjYwZjVmYyIsInB1ciI6ImJsb2JfaWQifX0=--fa8e71d5494bbd19f7110b38bb8326eb5752fd5a/marigaux.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/xzed08nv8y759zdofbg78mpjsqjy
 

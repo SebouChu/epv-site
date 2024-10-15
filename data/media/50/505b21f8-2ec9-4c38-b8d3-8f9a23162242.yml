@@ -5,6 +5,6 @@ width: 180
 height: 164
 ratio: 1.0975609756097562
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUwNWIyMWY4LTJlYzktNGMzOC1iOGQzLThmOWEyMzE2MjI0MiIsInB1ciI6ImJsb2JfaWQifX0=--8782be97243a19c8fea02c8049ca81892183cc7b/lehodey.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/l30xgkmh75z7q0au6uoarvizmyez
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUwNWIyMWY4LTJlYzktNGMzOC1iOGQzLThmOWEyMzE2MjI0MiIsInB1ciI6ImJsb2JfaWQifX0=--448a98ffd92546503a574e556bed691d08a3a897/lehodey.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/l30xgkmh75z7q0au6uoarvizmyez
 
