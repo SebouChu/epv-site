@@ -5,6 +5,6 @@ width: 215
 height: 75
 ratio: 2.8666666666666667
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImViYzdiMTY2LWNiOTUtNDhmOC04ZTZjLTM3Zjk5OGYyN2U4YiIsInB1ciI6ImJsb2JfaWQifX0=--ee04f468b19be974a7b916015d04256806cb7ba8/Tarn-Missegle.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/n3map83ky8jt4k2q5hlm5uegthlb
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImViYzdiMTY2LWNiOTUtNDhmOC04ZTZjLTM3Zjk5OGYyN2U4YiIsInB1ciI6ImJsb2JfaWQifX0=--871333c8ba2c931d5d0b227811f6217dd194db81/Tarn-Missegle.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/n3map83ky8jt4k2q5hlm5uegthlb
 

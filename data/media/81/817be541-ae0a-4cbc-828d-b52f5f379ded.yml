@@ -5,6 +5,6 @@ width: 224
 height: 224
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjgxN2JlNTQxLWFlMGEtNGNiYy04MjhkLWI1MmY1ZjM3OWRlZCIsInB1ciI6ImJsb2JfaWQifX0=--cbf667c23ab10a7611521c39f99e38d2f294b87c/Aveyron-Escaliers-Baldet.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/q92l50gp96x4777xapnnke5nrt3w
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjgxN2JlNTQxLWFlMGEtNGNiYy04MjhkLWI1MmY1ZjM3OWRlZCIsInB1ciI6ImJsb2JfaWQifX0=--153578ce023cc0eb220e5344f8b1e190bc368234/Aveyron-Escaliers-Baldet.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/q92l50gp96x4777xapnnke5nrt3w
 

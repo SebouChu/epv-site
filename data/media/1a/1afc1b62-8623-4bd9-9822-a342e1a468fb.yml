@@ -5,6 +5,6 @@ width: 180
 height: 70
 ratio: 2.5714285714285716
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjFhZmMxYjYyLTg2MjMtNGJkOS05ODIyLWEzNDJlMWE0NjhmYiIsInB1ciI6ImJsb2JfaWQifX0=--60e69825fe20a6344ee48812fe1144282f009020/Gers-Maison-Gelas.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/makdftsqz27kgzij4hlkr5clm6hg
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjFhZmMxYjYyLTg2MjMtNGJkOS05ODIyLWEzNDJlMWE0NjhmYiIsInB1ciI6ImJsb2JfaWQifX0=--fa9d287b91aa86ed9cfa5f87797f34d5fa9b1d2b/Gers-Maison-Gelas.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/makdftsqz27kgzij4hlkr5clm6hg
 

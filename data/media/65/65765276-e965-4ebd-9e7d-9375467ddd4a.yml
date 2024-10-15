@@ -5,6 +5,6 @@ width: 256
 height: 140
 ratio: 1.8285714285714285
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjY1NzY1Mjc2LWU5NjUtNGViZC05ZTdkLTkzNzU0NjdkZGQ0YSIsInB1ciI6ImJsb2JfaWQifX0=--5e074b6101be4dc3cee044d96e383be1fedeba30/Aveyron-Megisserie-Richard.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/mp2rxow0b33767u2rxb1ec47m5ds
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjY1NzY1Mjc2LWU5NjUtNGViZC05ZTdkLTkzNzU0NjdkZGQ0YSIsInB1ciI6ImJsb2JfaWQifX0=--f3b578c3a73584070d8d80fbbc74a6a028e5bbeb/Aveyron-Megisserie-Richard.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/mp2rxow0b33767u2rxb1ec47m5ds
 

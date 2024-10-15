@@ -5,6 +5,6 @@ width: 500
 height: 138
 ratio: 3.6231884057971016
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImI1MTkwMTc4LWJjMTEtNDEwYi05ZTRlLTYyOWI1M2MwNjMwMSIsInB1ciI6ImJsb2JfaWQifX0=--9f247c996973f888df653834c9d8e6f55e2dc0c3/Aveyron-Le-sac-du-Berger.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/f4edvkhx5z7h7463ykgul1tssknk
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImI1MTkwMTc4LWJjMTEtNDEwYi05ZTRlLTYyOWI1M2MwNjMwMSIsInB1ciI6ImJsb2JfaWQifX0=--ee90ac45e313eb1e8a8f665a877c89e2cae7ca5f/Aveyron-Le-sac-du-Berger.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/f4edvkhx5z7h7463ykgul1tssknk
 

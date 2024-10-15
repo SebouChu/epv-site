@@ -5,6 +5,6 @@ width: 200
 height: 68
 ratio: 2.9411764705882355
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjA0NDkwMTlmLTA1MTgtNDk3OS1iMTdiLTNlNTkxZmZiYjQ5YSIsInB1ciI6ImJsb2JfaWQifX0=--072f45956f86191220362267025ab846dbce361a/Gers-Les-delices-d-alienor.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/71f5rf0boua1vhxa6uwwy8gkgcy2
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjA0NDkwMTlmLTA1MTgtNDk3OS1iMTdiLTNlNTkxZmZiYjQ5YSIsInB1ciI6ImJsb2JfaWQifX0=--b386693f48c35ec4d124d6509979cb1d494dff61/Gers-Les-delices-d-alienor.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/71f5rf0boua1vhxa6uwwy8gkgcy2
 

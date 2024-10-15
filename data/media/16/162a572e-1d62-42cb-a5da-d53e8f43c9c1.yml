@@ -5,6 +5,6 @@ width: 225
 height: 225
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjE2MmE1NzJlLTFkNjItNDJjYi1hNWRhLWQ1M2U4ZjQzYzljMSIsInB1ciI6ImJsb2JfaWQifX0=--ae8c6802017db285c6f9fd96292108562a70bff1/Aveyron-Laguiole-Honore-Durand.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/k5vvzdq3lt6c1ja4s26dhzqathix
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjE2MmE1NzJlLTFkNjItNDJjYi1hNWRhLWQ1M2U4ZjQzYzljMSIsInB1ciI6ImJsb2JfaWQifX0=--366c6901489b3fa8b3a521297c91868cc8da8ac7/Aveyron-Laguiole-Honore-Durand.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/k5vvzdq3lt6c1ja4s26dhzqathix
 

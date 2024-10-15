@@ -5,6 +5,6 @@ width: 335
 height: 151
 ratio: 2.218543046357616
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImRhY2Y5OWQwLWNmOWQtNGQ4Yi1iYmRmLWU4NzJlYmJkYzVhZCIsInB1ciI6ImJsb2JfaWQifX0=--ea34b9a99568ae7488b7434fcf5ed687933f6d60/Aveyron-Gant-Causse.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/qwvvp7111uf76nuv5bhrjm8fox54
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImRhY2Y5OWQwLWNmOWQtNGQ4Yi1iYmRmLWU4NzJlYmJkYzVhZCIsInB1ciI6ImJsb2JfaWQifX0=--12eacba78fa25f5a57aae0d634a92db8cb4e89b3/Aveyron-Gant-Causse.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/qwvvp7111uf76nuv5bhrjm8fox54
 

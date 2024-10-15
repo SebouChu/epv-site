@@ -5,6 +5,6 @@ width: 200
 height: 200
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImVmMWUyZTJmLTllNjYtNGVjMS1hNmU1LWNkOTMzYTZhMjBmOSIsInB1ciI6ImJsb2JfaWQifX0=--536514ec0fff41eda2a352afec6aff7487094930/manufacture_de_cuir_de_realmont_logo-1.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/9ocrhoih43678ttzzdf96q042lgi
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImVmMWUyZTJmLTllNjYtNGVjMS1hNmU1LWNkOTMzYTZhMjBmOSIsInB1ciI6ImJsb2JfaWQifX0=--558a60a7f2011b9c4627020913c7af221201d80f/manufacture_de_cuir_de_realmont_logo-1.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/9ocrhoih43678ttzzdf96q042lgi
 

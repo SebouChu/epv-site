@@ -5,6 +5,6 @@ width: 577
 height: 261
 ratio: 2.210727969348659
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjRkODJhOGQyLWYxM2MtNDYyOC1hMTIyLWIyMzhhYmIwOTBkOCIsInB1ciI6ImJsb2JfaWQifX0=--f44fbd4e7199889f21122ca29f7df55741146680/Hautes-Pyrenees-SERAL.svg
-direct_url: https://osuny.s3.fr-par.scw.cloud/aej38k3kcv5vlof6c0p02nouf76h
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjRkODJhOGQyLWYxM2MtNDYyOC1hMTIyLWIyMzhhYmIwOTBkOCIsInB1ciI6ImJsb2JfaWQifX0=--dbbbb57d28609b620978f183a4872f68265ddf12/Hautes-Pyrenees-SERAL.svg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/aej38k3kcv5vlof6c0p02nouf76h
 

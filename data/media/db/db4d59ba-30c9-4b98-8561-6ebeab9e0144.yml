@@ -5,6 +5,6 @@ width: 200
 height: 200
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImRiNGQ1OWJhLTMwYzktNGI5OC04NTYxLTZlYmVhYjllMDE0NCIsInB1ciI6ImJsb2JfaWQifX0=--22816efeba05d2440e39e9fdd0d26651223caec3/coutellerie_de_laguiole_logo.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/x7fmr1fhcer0242mxzoanpdv4df2
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImRiNGQ1OWJhLTMwYzktNGI5OC04NTYxLTZlYmVhYjllMDE0NCIsInB1ciI6ImJsb2JfaWQifX0=--1ca55988e3770d83a67bb0da828cf72baf554a52/coutellerie_de_laguiole_logo.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/x7fmr1fhcer0242mxzoanpdv4df2
 
