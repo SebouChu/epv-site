@@ -5,6 +5,6 @@ width: 225
 height: 225
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImM1ZmU2YWFhLWZiOTItNDlhZC1hYjRhLTQyYmExZGRlODk1NiIsInB1ciI6ImJsb2JfaWQifX0=--4a0fc29838eb2013651f6ad8d591c2a8febfac62/images-4.jpeg
-direct_url: https://osuny.s3.fr-par.scw.cloud/8w6vc5vwz3sfrn16ep9s4dszj1j0
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImM1ZmU2YWFhLWZiOTItNDlhZC1hYjRhLTQyYmExZGRlODk1NiIsInB1ciI6ImJsb2JfaWQifX0=--1dd0e6b786e861395f7245634fa6b28a3b9eaf2b/images-4.jpeg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/8w6vc5vwz3sfrn16ep9s4dszj1j0
 

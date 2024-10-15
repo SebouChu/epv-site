@@ -5,6 +5,6 @@ width: 690
 height: 286
 ratio: 2.4125874125874125
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVkMGJmZGE2LTRjMWMtNGY4OC05ZTM5LTliMTcxZDdlYjc0NyIsInB1ciI6ImJsb2JfaWQifX0=--32c5d2455130d9937d7348d9c1c4ccc23fc1312d/Artisena.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/lc7ob2lzrsd8x2ccn6edpkjb0afb
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjVkMGJmZGE2LTRjMWMtNGY4OC05ZTM5LTliMTcxZDdlYjc0NyIsInB1ciI6ImJsb2JfaWQifX0=--2a57d7ee9bca59c7dfc594e0899b1e9d59ee2c0d/Artisena.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/lc7ob2lzrsd8x2ccn6edpkjb0afb
 

@@ -5,6 +5,6 @@ width: 583
 height: 250
 ratio: 2.332
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJlMWY1MzQ0LTVjMzktNDcwZS1iODdhLTY0MmJlZWZlNTY0OSIsInB1ciI6ImJsb2JfaWQifX0=--ea2f16aaa98896e42831a001a42d9698e971a76f/Biard-roy.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/qccvqvi92t87dxrwcyd2icx1853p
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImJlMWY1MzQ0LTVjMzktNDcwZS1iODdhLTY0MmJlZWZlNTY0OSIsInB1ciI6ImJsb2JfaWQifX0=--419ac0ae350de11b3f9662c7c33650f5fd29b4af/Biard-roy.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/qccvqvi92t87dxrwcyd2icx1853p
 

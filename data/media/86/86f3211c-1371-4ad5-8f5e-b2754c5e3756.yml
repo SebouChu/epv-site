@@ -5,6 +5,6 @@ width: 800
 height: 534
 ratio: 1.4981273408239701
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg2ZjMyMTFjLTEzNzEtNGFkNS04ZjVlLWIyNzU0YzVlMzc1NiIsInB1ciI6ImJsb2JfaWQifX0=--af35acb50c754b832632fab05eab13b91158e502/jambons-2.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/4onagv6des0xkmsnd1zynsyhcoio
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6Ijg2ZjMyMTFjLTEzNzEtNGFkNS04ZjVlLWIyNzU0YzVlMzc1NiIsInB1ciI6ImJsb2JfaWQifX0=--51b661c0d2f8b24c2fe1bf50db7f22cf02d6a9c5/jambons-2.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/4onagv6des0xkmsnd1zynsyhcoio
 

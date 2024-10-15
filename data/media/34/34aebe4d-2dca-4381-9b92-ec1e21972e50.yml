@@ -5,6 +5,6 @@ width: 512
 height: 340
 ratio: 1.5058823529411764
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjM0YWViZTRkLTJkY2EtNDM4MS05YjkyLWVjMWUyMTk3MmU1MCIsInB1ciI6ImJsb2JfaWQifX0=--d6a9cc687e29b66f93244124c732b87504da64cd/Biscuiterie-jeanette.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/w5jn3j0oksr7ve67cevigogw5ac4
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjM0YWViZTRkLTJkY2EtNDM4MS05YjkyLWVjMWUyMTk3MmU1MCIsInB1ciI6ImJsb2JfaWQifX0=--dcef7cd4a0913023d8ff7a43eafecbf0fd70b3d1/Biscuiterie-jeanette.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/w5jn3j0oksr7ve67cevigogw5ac4
 

@@ -5,6 +5,6 @@ width: 458
 height: 458
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImY4ZDUzM2I2LTNlM2EtNGQzMC04MjU1LWY5ZDVjOGRhYWVmMCIsInB1ciI6ImJsb2JfaWQifX0=--4ff88f954d19a0d31b993e60969af7e41bfdbd3b/calvados-roger-groult.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/f6ywwa3fj6bc9g7086uokgy1xud6
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImY4ZDUzM2I2LTNlM2EtNGQzMC04MjU1LWY5ZDVjOGRhYWVmMCIsInB1ciI6ImJsb2JfaWQifX0=--8b4875366aea6a7cc0123a51fc0e460264d9eea2/calvados-roger-groult.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/f6ywwa3fj6bc9g7086uokgy1xud6
 

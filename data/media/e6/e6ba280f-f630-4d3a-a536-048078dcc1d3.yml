@@ -5,6 +5,6 @@ width: 658
 height: 262
 ratio: 2.5114503816793894
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImU2YmEyODBmLWY2MzAtNGQzYS1hNTM2LTA0ODA3OGRjYzFkMyIsInB1ciI6ImJsb2JfaWQifX0=--7e0e566912e9ce24d5a82db05b68ac57bc5ecba8/Atelier-giordani.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/nqfy5mr5nr9yajjbm1lpwsk0uevf
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImU2YmEyODBmLWY2MzAtNGQzYS1hNTM2LTA0ODA3OGRjYzFkMyIsInB1ciI6ImJsb2JfaWQifX0=--389020793234fa0ce0f178e1a6f14fa48b07ca4c/Atelier-giordani.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/nqfy5mr5nr9yajjbm1lpwsk0uevf
 

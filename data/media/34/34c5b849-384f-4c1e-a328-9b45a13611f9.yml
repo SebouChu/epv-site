@@ -5,6 +5,6 @@ width: 1772
 height: 709
 ratio: 2.4992947813822286
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjM0YzViODQ5LTM4NGYtNGMxZS1hMzI4LTliNDVhMTM2MTFmOSIsInB1ciI6ImJsb2JfaWQifX0=--c203dce3076a5184c8dedc6f357cba24c3f8dd9f/Atelier-Christophe-Bernard.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/7qjqcry1m5y0pnaxjzxaltgzug7u
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjM0YzViODQ5LTM4NGYtNGMxZS1hMzI4LTliNDVhMTM2MTFmOSIsInB1ciI6ImJsb2JfaWQifX0=--83c4ac087fb3a602186d7c569381c6f2823bc588/Atelier-Christophe-Bernard.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/7qjqcry1m5y0pnaxjzxaltgzug7u
 

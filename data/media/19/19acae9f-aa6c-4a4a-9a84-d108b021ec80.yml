@@ -5,6 +5,6 @@ width: 1811
 height: 208
 ratio: 8.70673076923077
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjE5YWNhZTlmLWFhNmMtNGE0YS05YTg0LWQxMDhiMDIxZWM4MCIsInB1ciI6ImJsb2JfaWQifX0=--de601982f73dcf71f81a77fe1d6738db52b85cc8/Serres.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/21woyzfu54tojwzdfl5qo4ptv7yc
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjE5YWNhZTlmLWFhNmMtNGE0YS05YTg0LWQxMDhiMDIxZWM4MCIsInB1ciI6ImJsb2JfaWQifX0=--fe79d64541742623b911676c82e7d56954618f87/Serres.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/21woyzfu54tojwzdfl5qo4ptv7yc
 

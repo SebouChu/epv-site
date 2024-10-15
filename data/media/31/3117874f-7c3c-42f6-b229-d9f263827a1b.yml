@@ -5,6 +5,6 @@ width: 1152
 height: 1440
 ratio: 0.8
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjMxMTc4NzRmLTdjM2MtNDJmNi1iMjI5LWQ5ZjI2MzgyN2ExYiIsInB1ciI6ImJsb2JfaWQifX0=--e8d8b7cc1bc123013fa880b12776fd8661e9a78d/arsen-biscuiterie-jeannette-1850-madeleine-et-beurre.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/jpukzjlmo2csvnhfb7sybxwh0t5o
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjMxMTc4NzRmLTdjM2MtNDJmNi1iMjI5LWQ5ZjI2MzgyN2ExYiIsInB1ciI6ImJsb2JfaWQifX0=--549bc33afedca703218b4fd3eda09a59da27de9a/arsen-biscuiterie-jeannette-1850-madeleine-et-beurre.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/jpukzjlmo2csvnhfb7sybxwh0t5o
 

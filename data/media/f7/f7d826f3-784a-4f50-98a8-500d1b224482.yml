@@ -5,6 +5,6 @@ width: 345
 height: 177
 ratio: 1.9491525423728813
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImY3ZDgyNmYzLTc4NGEtNGY1MC05OGE4LTUwMGQxYjIyNDQ4MiIsInB1ciI6ImJsb2JfaWQifX0=--cf461e67dd03a1592bed1368ff23bb9a74811efe/degrenne.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/2r18o9uyj6p1sjdxpk7vcn51jbjd
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImY3ZDgyNmYzLTc4NGEtNGY1MC05OGE4LTUwMGQxYjIyNDQ4MiIsInB1ciI6ImJsb2JfaWQifX0=--beebaf6ab548840a6eceffedda36b76c4a3bb4cb/degrenne.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/2r18o9uyj6p1sjdxpk7vcn51jbjd
 
