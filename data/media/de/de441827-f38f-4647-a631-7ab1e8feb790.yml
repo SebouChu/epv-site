@@ -5,6 +5,6 @@ width: 1980
 height: 1320
 ratio: 1.5
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImRlNDQxODI3LWYzOGYtNDY0Ny1hNjMxLTdhYjFlOGZlYjc5MCIsInB1ciI6ImJsb2JfaWQifX0=--bb6e06b078909d9972abaf8d79ce873e83f1517d/Tristan.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/ijicytvnb52r2gxs30mmac1dm7pw
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImRlNDQxODI3LWYzOGYtNDY0Ny1hNjMxLTdhYjFlOGZlYjc5MCIsInB1ciI6ImJsb2JfaWQifX0=--4abe0b379af1b4deeb263d05103a96e2c6db8769/Tristan.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/ijicytvnb52r2gxs30mmac1dm7pw
 

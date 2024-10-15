@@ -5,6 +5,6 @@ width: 1980
 height: 1320
 ratio: 1.5
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdlODEwMWM1LTUyMGQtNDQxYi05MThhLTdiZTRjNDhmZTcxZiIsInB1ciI6ImJsb2JfaWQifX0=--5633d52cdab3e176a001e93f00f1947085d0f3ea/Photo-163.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/vn2bc7myv1wiujsqm92bkqmr1ypj
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjdlODEwMWM1LTUyMGQtNDQxYi05MThhLTdiZTRjNDhmZTcxZiIsInB1ciI6ImJsb2JfaWQifX0=--9efded9c3f0001ff7e1b0261c55d22ddf8ff1524/Photo-163.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/vn2bc7myv1wiujsqm92bkqmr1ypj
 

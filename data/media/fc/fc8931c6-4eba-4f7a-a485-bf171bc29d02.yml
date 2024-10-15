@@ -5,6 +5,6 @@ width: 550
 height: 320
 ratio: 1.71875
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImZjODkzMWM2LTRlYmEtNGY3YS1hNDg1LWJmMTcxYmMyOWQwMiIsInB1ciI6ImJsb2JfaWQifX0=--494146daecc9616cc50670db25b9a20bcf9919c1/metiers-d-art.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/u40y8nqne9rb6dim3ob40ondo9lz
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImZjODkzMWM2LTRlYmEtNGY3YS1hNDg1LWJmMTcxYmMyOWQwMiIsInB1ciI6ImJsb2JfaWQifX0=--26b7fbf9d6f7e83d5c344522c8529013a4fe4ab2/metiers-d-art.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/u40y8nqne9rb6dim3ob40ondo9lz
 

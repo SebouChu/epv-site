@@ -5,6 +5,6 @@ width: 1200
 height: 628
 ratio: 1.910828025477707
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjRiMmFmODI5LTZlNjYtNDE3Yi04MTNhLTg0MDlkNzdhMGRiZSIsInB1ciI6ImJsb2JfaWQifX0=--4a2bb09fc2df631200a9e15dcad6f45ecb24b8c2/renovation-orient-express-7.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/qhm98jnbxnww60xx01mjl0qcgd7v
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjRiMmFmODI5LTZlNjYtNDE3Yi04MTNhLTg0MDlkNzdhMGRiZSIsInB1ciI6ImJsb2JfaWQifX0=--25ce0117574010af9c1cacd786208ccefce8bd4c/renovation-orient-express-7.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/qhm98jnbxnww60xx01mjl0qcgd7v
 

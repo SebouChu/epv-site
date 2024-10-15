@@ -5,6 +5,6 @@ width: 2048
 height: 2048
 ratio: 1.0
 format: square
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjkzN2IzNmNkLTM0MDYtNGRlYi05N2ZmLTlhNzBmNTBjOGMxZCIsInB1ciI6ImJsb2JfaWQifX0=--52b563deed3e81877ab9d1c8c06963a877497df1/lejacquardfrancais_1694775607_3192331623217534788_3040670384.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/o9ewyl2ey0pu308got06u8anwxaz
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjkzN2IzNmNkLTM0MDYtNGRlYi05N2ZmLTlhNzBmNTBjOGMxZCIsInB1ciI6ImJsb2JfaWQifX0=--e460f50535a006d14c5d4390006a751d37445d58/lejacquardfrancais_1694775607_3192331623217534788_3040670384.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/o9ewyl2ey0pu308got06u8anwxaz
 

@@ -5,6 +5,6 @@ width: 752
 height: 502
 ratio: 1.49800796812749
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBlYTI1ZTE0LWE1MTItNDZiOC04ZTljLWZjYmQ0OWU5NTYzYyIsInB1ciI6ImJsb2JfaWQifX0=--c962266f1a01b6331483c52184e3533a0363f458/loubout.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/7mud3ohayaw4gkeefxgwtxe1hsl2
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjBlYTI1ZTE0LWE1MTItNDZiOC04ZTljLWZjYmQ0OWU5NTYzYyIsInB1ciI6ImJsb2JfaWQifX0=--ec036abb9018ce49a5ddd22aaf6ff31625906a0f/loubout.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/7mud3ohayaw4gkeefxgwtxe1hsl2
 

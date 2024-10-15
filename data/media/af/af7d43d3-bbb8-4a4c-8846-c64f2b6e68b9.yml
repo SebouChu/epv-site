@@ -5,6 +5,6 @@ width: 2352
 height: 2800
 ratio: 0.84
 format: portrait
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImFmN2Q0M2QzLWJiYjgtNGE0Yy04ODQ2LWM2NGYyYjZlNjhiOSIsInB1ciI6ImJsb2JfaWQifX0=--cdbb119580a3dbb0b4a4b6a8402edb486eaa5459/5OFP_Night.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/x2hxz1mouqej09rreuc8xevw49c9
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImFmN2Q0M2QzLWJiYjgtNGE0Yy04ODQ2LWM2NGYyYjZlNjhiOSIsInB1ciI6ImJsb2JfaWQifX0=--6071edf2219d69314b5e6cdbbd33322d9088bdf9/5OFP_Night.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/x2hxz1mouqej09rreuc8xevw49c9
 

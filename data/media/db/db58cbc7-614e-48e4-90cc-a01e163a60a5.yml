@@ -5,6 +5,6 @@ width: 2592
 height: 1944
 ratio: 1.3333333333333333
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImRiNThjYmM3LTYxNGUtNDhlNC05MGNjLWEwMWUxNjNhNjBhNSIsInB1ciI6ImJsb2JfaWQifX0=--798a7132d98e4dc1e6bceb88727c1a85512c216f/water-mirror-1224551.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/6vlcu90zin9oyctgse4fyoxqt83y
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImRiNThjYmM3LTYxNGUtNDhlNC05MGNjLWEwMWUxNjNhNjBhNSIsInB1ciI6ImJsb2JfaWQifX0=--bef6cb28db7f38fe0be03d3568d3695bbc3d0c70/water-mirror-1224551.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/6vlcu90zin9oyctgse4fyoxqt83y
 

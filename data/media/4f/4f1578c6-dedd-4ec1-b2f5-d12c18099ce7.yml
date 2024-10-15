@@ -5,6 +5,6 @@ width: 1280
 height: 850
 ratio: 1.5058823529411764
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjRmMTU3OGM2LWRlZGQtNGVjMS1iMmY1LWQxMmMxODA5OWNlNyIsInB1ciI6ImJsb2JfaWQifX0=--9c119efd1dc010623198a9e26bab9ccd0996143f/matali_crasset_Tissage_Moutet_-_Julien_Jouanjus_DSCF7352-1280x850.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/gp2z846gm0ppap5wufxp1pq76xb0
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjRmMTU3OGM2LWRlZGQtNGVjMS1iMmY1LWQxMmMxODA5OWNlNyIsInB1ciI6ImJsb2JfaWQifX0=--ee0b1e7e498db64f17fb8881d8419d114ad40b4b/matali_crasset_Tissage_Moutet_-_Julien_Jouanjus_DSCF7352-1280x850.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/gp2z846gm0ppap5wufxp1pq76xb0
 

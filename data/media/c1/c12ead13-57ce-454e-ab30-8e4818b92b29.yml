@@ -5,6 +5,6 @@ width: 1280
 height: 720
 ratio: 1.7777777777777777
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImMxMmVhZDEzLTU3Y2UtNDU0ZS1hYjMwLThlNDgxOGI5MmIyOSIsInB1ciI6ImJsb2JfaWQifX0=--c262d485b6385fd80da811bd6b43cec316c3694f/franck-20benito.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/zsx3zg213f22qfwea8lfckgfz5x7
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImMxMmVhZDEzLTU3Y2UtNDU0ZS1hYjMwLThlNDgxOGI5MmIyOSIsInB1ciI6ImJsb2JfaWQifX0=--ac39a37f62db7b1e2a80405f29b2718771c6861b/franck-20benito.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/zsx3zg213f22qfwea8lfckgfz5x7
 

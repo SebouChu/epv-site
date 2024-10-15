@@ -5,6 +5,6 @@ width: 600
 height: 400
 ratio: 1.5
 format: landscape
-url: https://epv.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjEyYTg1NWQxLTQ0MTEtNGNkZi1iYmFhLWQyMGI2N2JlOGM1MyIsInB1ciI6ImJsb2JfaWQifX0=--ac9ea3680366cb062504e569312ea5ed83308ec6/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/a6aghxpqdvj4o72dzdyg65z55ln0
+url: http://epv.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjEyYTg1NWQxLTQ0MTEtNGNkZi1iYmFhLWQyMGI2N2JlOGM1MyIsInB1ciI6ImJsb2JfaWQifX0=--3388597936e80bb997661ec812c9bd82a6e10ed3/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/a6aghxpqdvj4o72dzdyg65z55ln0
 
